@@ -1,0 +1,368 @@
+WWL DATA POINT ANALYSIS	
+
+							
+HWM ID: RTXC-01-01
+County: Jefferson
+Elevation (from 5' contours): 20
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): 5
+Distance to Original Debris Line (ft): - 
+Distance to Original Flood Inundation Boundary (ft): 9,400
+Action: Designated as a WWL Data Point NUAR.
+Explanation: Photo shows wrack line, but flagger form indicates "no flooding or damage to building." It does not make sense to extend the inundation polygon to this point because aerials do not show evidence of flooding to the east of this point and the elevation is much higher than the flood elevation. 
+
+HWM ID: RTXC-01-03
+County: Orange
+Elevation (from 5' contours): 15
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): 5
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): 10,600
+Action: Designated as a WWL Data Point NUAR.
+Explanation: Photo shows a water line 9" above ground, however flooding does not appear to be due to coastal surge. Point does not appear to be along a tributary.
+
+HWM ID: RTXC-03-01
+County: Harris
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Designated as a WWL Data Point NUAR.
+Explanation: Flagger found a debris line, but noted "HWM may be normal high tide."
+
+HWM ID: RTXC-03-02
+County: Harris
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Extended debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-03
+County: Chambers
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): - 
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Extended debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-04
+County: Chambers
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Extended debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-05
+County: Chambers
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Extended debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-06
+County: Orange
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): 5
+Distance to Original Debris Line (ft): - 
+Distance to Original Flood Inundation Boundary (ft): 100
+Action: No action.
+Explanation: Point lies within 200 feet of the inundation polygon. 
+
+HWM ID: RTXC-03-07
+County: Orange
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours):-
+Original Flood Inundation Boundary Elev. (from 5' contours):5
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): 400
+Action: Used imagery to extend inland flood polygon to flagger point.
+Explanation: Flagger observations indicate flooding occurred further west than shown. 
+
+HWM ID: RTXC-03-09
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-10
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-11	
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-12
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-13
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-14
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-15
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-03-16
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-04-01
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-04-02
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-04-03
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-04-04
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Added debris line to point using 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+
+HWM ID: RTXC-05-06	
+County: Jefferson
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): 5
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): 220
+Action: Moved inland flood polygon north across the road to the point.
+Explanation: Debris line is along the other side of the inundation polygon and more conservative. Inland flooding extends beyond debris line.
+
+
+HWM ID: RTXC-05-08
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): 5
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft):  2,500
+Distance to Original Flood Inundation Boundary (ft): -
+Action: Moved debris line inland to include point and follow 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-05-18
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Action: Extended debris line to point along the 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-05-19
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): 5
+Original Flood Inundation Boundary Elev. (from 5' contours):-
+Distance to Original Debris Line (ft): 3,300
+Distance to Original Flood Inundation Boundary (ft): -
+Action: Moved debris line inland to include point and follow 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-05-20
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): 5
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): 900
+Distance to Original Flood Inundation Boundary (ft): -
+Action: Moved debris line inland to include point and follow 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXC-05-21
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): 5
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): 120
+Distance to Original Flood Inundation Boundary (ft): -
+Action: No action.
+Explanation: Point is within 200 feet of the debris line.
+
+HWM ID: RTXC-05-23
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): 5
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): 260
+Distance to Original Flood Inundation Boundary (ft): -
+Action: No action.
+Explanation: Point is close to the debris line.
+
+HWM ID: RTXC-05-26
+County: Jefferson
+Elevation (from 5' contours): <5
+Original Debris Line Elev. (from 5' contours):-
+Original Flood Inundation Boundary Elev. (from 5' contours): <5
+Distance to Original Debris Line (ft):-
+Distance to Original Flood Inundation Boundary (ft): 0
+Action: No action.
+Explanation: Point is within 200 feet of the inundation polygon.
+
+HWM ID: RTXC-05-27
+County: Jefferson
+Elevation (from 5' contours): <5
+Original Debris Line Elev. (from 5' contours):-
+Original Flood Inundation Boundary Elev. (from 5' contours): <5
+Distance to Original Debris Line (ft):-
+Distance to Original Flood Inundation Boundary (ft): 100
+Action: No action.
+Explanation: Point is within 200 feet of the inundation polygon.
+
+HWM ID: RTXC-05-53
+County: Galveston
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): 5
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): 1900
+Distance to Original Flood Inundation Boundary (ft): -
+Action: Moved debris line inland to include point and follow 5-ft contour.
+Explanation: Flagger observations support that a debris line formed here.
+
+HWM ID: RTXR-02-14
+County: Sabine
+Elevation (from 5' contours): -
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): -
+Action: Designated as a WWL Data Point NUAR.
+Explanation: Point has elevation 175 feet and is 118 miles away from coast. The flooding only happened inside the stream channel and is irrelevant to coastal surge.
+
+HWM ID: RTXR-05-35
+County: Polk
+Elevation (from 5' contours): -
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): 220
+Action: Designated as a WWL Data Point NUAR.
+Explanation: Point has elevation above 200 feet and is 82 miles  away from coast line. The flooding only happened inside the stream channel and is irrelevant to coastal surge.
+
+HWM ID: RTXR-05-36
+County: Polk
+Elevation (from 5' contours): -
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): -
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): 220
+Action: Designated as a WWL Data Point NUAR.
+Explanation: Point has elevation above 200 feet and is 82 miles  away from coast line. The flooding only happened inside the stream channel and is irrelevant to coastal surge.
+
+HWM ID: RTXR-05-51
+County: Orange
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): 5
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): 2,000
+Action: Extended inland flood polygon northwest along 5-ft contour.
+Explanation: Flagger observations support that flooding occurred here.
+
+HWM ID: RTXR-05-52
+County: Orange
+Elevation (from 5' contours): 5
+Original Debris Line Elev. (from 5' contours): -
+Original Flood Inundation Boundary Elev. (from 5' contours): 5
+Distance to Original Debris Line (ft): -
+Distance to Original Flood Inundation Boundary (ft): 0
+Action: No action.
+Explanation: Point is within 200 feet of the inundation polygon.
+
+ 	
+								
+								

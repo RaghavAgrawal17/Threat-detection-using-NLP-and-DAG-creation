@@ -1,0 +1,654 @@
+Human Rights Commission v. Benevolent & Protective Order of Elks (2001-495);
+176 Vt. 125; 839 A.2d 576
+
+2003 VT 104
+
+[Filed 07-Nov-2003]
+
+
+       NOTICE:  This opinion is subject to motions for reargument under
+  V.R.A.P. 40 as well as formal revision before publication in the Vermont
+  Reports.  Readers are requested to notify the Reporter of Decisions,
+  Vermont Supreme Court, 109 State Street, Montpelier, Vermont 05609-0801 of
+  any errors in order that corrections may be made before this opinion goes
+  to press.
+
+
+                                 2003 VT 104
+
+                                No. 2001-495
+
+
+  Human Rights Commission, Waltraud	         Supreme Court
+  Keiley, Marilyn McMillan, Jane Thibodeau
+  and Mayleen Ventura	                         On Appeal from
+       	                                         Washington Superior Court
+      v.	
+
+  Benevolent and Protective Order of             September Term, 2002 
+  Elks of the United States of America and 
+  B.P.O.E., Hartford, Vermont, Lodge No. 1541
+
+  Matthew I. Katz, J.
+
+  Robert Appel, Executive Director, Vermont Human Rights Commission,
+    Montpelier, and Edwin L. Hobson, Burlington, for Plaintiffs-Appellants.
+
+  Norman E. Watts, Woodstock, for Defendant-Appellee Benevolent and
+    Protective Order of the Elks, Hartford, Vermont.
+
+  Robert Reis and Matthew Anderson of Webber, Reis, Holler & Urso, LLP,
+    Rutland, and Elizabeth A. Knight of Knight, Hoppe, Fanning & Kurnik, LLC,
+    Des Plains, Illinois, for Defendant-Appellee Benevolent and Protective
+    Order of the Elks of United States.
+
+
+  PRESENT:  Amestoy, C.J., Dooley, Morse (FN1) and Skoglund, JJ., and Allen,
+            C.J. (Ret.), Specially  Assigned
+
+        
+       ¶  1.  AMESTOY, C.J.   This appeal arises out of the Washington
+  Superior Court's summary judgment dismissal of plaintiffs' claim that
+  defendants, Benevolent and Protective Order of Elks of the United States of
+  America ("National Elks") and Benevolent and Protective Order of Elks,
+  Hartford, Vermont, Lodge 1541 ("Hartford Lodge"), discriminated against
+  them on the basis of sex in violation of 9 V.S.A. § 4502(a) when
+  plaintiffs' applications for membership in the Hartford Lodge were denied. 
+  On appeal, plaintiffs argue that the trial court erred by: 1) ruling that
+  the Fair Housing and Public Accommodations Act ("FHPA"), 9 V.S.A. §§
+  4500-4507, does not bar membership discrimination by fraternal lodges; and
+  2) granting summary judgment for defendants because genuine issues of
+  material fact still remained.  We agree, and therefore reverse and remand
+  for further proceedings consistent with this opinion. 
+
+       ¶  2.  This case is not about whether a genuinely private club -
+  fraternal or otherwise - can choose to discriminate on the basis of sex in
+  membership selection.  That a private club can do so under our public
+  accommodations statute - whatever one thinks of the merits of such a choice
+  - is not open to doubt. See U.S. Jaycees v. McClure, 305 N.W.2d 764, 771
+  (Minn. 1981) (private associations and organizations are unaffected by
+  state's public accommodations law, and a court's determination that one
+  organization is not private under statute will have no effect on groups
+  that are in fact private and selective in membership).  The issue before us
+  is whether the Hartford Lodge is a private club, or is so open and
+  nonselective in offering its facilities and privileges that it can be
+  considered a "place of public accommodation" within the meaning of the
+  FHPA.
+   
+       ¶  3.  We conclude that membership in a fraternal organization is
+  covered by the FHPA if such membership is essentially open to the public,
+  and we remand the case to the trial court so that the trier of fact may
+  make the factual findings necessary for a determination of that issue.  Our
+  decision today is in conformity with the decisions of other jurisdictions,
+  which have held that similar public accommodations statutes extend to the
+  membership of a fraternal order in certain circumstances.  See, e.g.,
+  Fraternal Order of Eagles, Inc., Tucson Aerie #180 v. City of Tucson, 816
+  P.2d 255, 256 (Ariz. Ct. App. 1991) (holding that fraternal organization is
+  subject to local public accommodations ordinance as a "place of public
+  accommodation"); Schellenberg v. Rochester, Michigan Lodge No. 2225, of the
+  Benevolent and Protective Order of Elks, 577 N.W.2d 163, 169 (Mich. Ct.
+  App. 1998) (discussing prior appeal where appellate court already found
+  that Elks was a "place of public accommodation"); Franklin Lodge of Elks v.
+  Marcoux, 825 A.2d 480, 485 (N.H. 2003) (holding that public accommodations
+  statute extends to Elks membership); Lahmann v. Grand Aerie of Fraternal
+  Order of Eagles, 43 P.3d 1130, 1131 (Ct. App. Or. 2002), review denied, 54
+  P.3d 1041 (Or. 2002) (remanding for factual determination of whether
+  fraternal order was "place of public accommodation"); Fraternal Order of
+  Eagles, Tenino Aerie No. 564 v. Grand Aerie of Fraternal Order of Eagles,
+  59 P.3d 655, 668 (Wash. 2002) ("[T]he [Washington Law Against
+  Discrimination] reaches the membership policies of organizations.").  
+
+       ¶  4.  Hartford Lodge is a subordinate lodge of National Elks, the
+  largest benevolent fraternal order in America with approximately 1,200,000
+  members and over 2000 local lodges.  At the time of plaintiffs'
+  applications, Hartford Lodge had 1042 members.  From its inception in 1868
+  until 1995, National Elks required all candidates for membership to be
+  male.  In 1995, the statutes of the National Elks were amended to delete
+  this requirement.  The charter of the Hartford Lodge was automatically
+  amended to conform to the change by operation of the National Elks
+  statutes, despite the fact that Hartford Lodge voted against the amendment.
+  The amendment was communicated to the Hartford Lodge through mailings, a
+  speech, a newsletter and a magazine. (FN2)  
+   
+       ¶  5.  To qualify for membership in the Elks, an individual must be
+  a United States citizen, at least twenty-one years of age, of good
+  character, and must believe in God.  Hartford Lodge also alleges that it
+  adheres to an application screening process that consists of: a private
+  invitation to visit the Lodge; several visits by the prospect to meet
+  members; the prospect requesting and receiving a membership application;
+  the prospect submitting an application with personal history information;
+  the prospect pledging to pursue the organization's charitable objectives
+  and adhere to its statutes, by-laws, obligation and other rules, rituals
+  and procedures; an investigation of the prospect's background by a Hartford
+  committee; approval of the investigation committee based on National's
+  written membership criteria noted above; evaluation of the application and
+  an investigation committee report by the full membership; subjective
+  evaluation by the full membership of whether the prospect is "compatible;"
+  and approval of full membership and induction with formal pledge. 
+  Plaintiffs alleged on summary judgment that Hartford Lodge had over a 99%
+  acceptance rate for white men, and that it accepted 269 new members from
+  1990-99, rejecting only ten applicants.  Seven of these applicants were
+  women, including plaintiffs, and one was an African American man. 
+
+       ¶  6.  Hartford Elks owns and operates a large lodge facility in White
+  River Junction.  It opens these facilities to the public for weekly bingo
+  games and rents the premises to members of the general public for private
+  functions, such as wedding receptions which it will also cater for a fee. 
+  During the fiscal year ending in March 1996, Hartford Lodge reported
+  $1,113,636 in gross revenue from bingo and rip-open tickets.  Plaintiffs
+  allege that National Elks received over $12,000,000 from membership dues in
+  the year plaintiffs applied for membership, and that this constituted 80%
+  of its earned income for the year, although these allegations are in
+  dispute. 
+         
+       ¶  7.  In 1996, plaintiffs Waltraud Keiley, Marilyn McMillan, Jane
+  Thibodeau, and Mayleen Ventura applied for membership as the first female
+  applicants to Hartford Lodge.  The four women were members of the Hartford
+  Elks Emblem Club, which holds meetings at the Hartford Lodge, at the time
+  of their membership applications. The women were interviewed by an
+  investigating committee and were recommended for acceptance as members. 
+  Hartford Lodge then voted on the membership applications, and rejected the
+  female applicants but accepted the sole male applicant at that time.  At a
+  second meeting in January 1997, the women applicants again failed to
+  receive the necessary votes and were not admitted to Hartford Lodge as
+  members.  
+
+       ¶  8.  In August 1998, plaintiff Vermont Human Rights Commission and
+  the individual plaintiffs filed this case against defendants in superior
+  court.  National Elks filed a motion for summary judgment in December 1999,
+  and the court denied the motion on April 13, 2000 in a decision and order
+  written by Judge Bryan.  In his decision, Judge Bryan noted Vermont's
+  "public policy commitment to eradicating sex discrimination by public
+  establishments in this state" as demonstrated through its legislative
+  enactment of anti-discrimination and human rights laws.  The court
+  determined that "Hartford Elks Lodge is a place of 'public accommodation'
+  because it is in the business of selling memberships to a club" and
+  rejected National Elks' argument that it had no authority or involvement
+  over the membership decisions of a local lodge.  
+   
+       ¶  9.  Hartford Lodge filed a motion to reconsider the April 13th
+  decision in which Judge Bryan determined that Hartford Elks was a place of
+  public accommodation.  Hartford Lodge argued that whether the Hartford Elks
+  is a place of public accommodation is a disputed fact for the jury to
+  determine.  Judge Bryan declined to alter the April 13th decision,
+  observing that "if the question of public accommodation is still alive, it
+  is certainly not well.  This question likely will be disposed of quickly at
+  trial, and if not by the court as a matter of law, then by the jury under
+  instructions that will leave little doubt as to the result."  He added that
+  "the Hartford Elks remains at liberty to convince Judge Katz, if it can,
+  that the question of public accommodation is for the jury.  After hearing
+  the evidence, he remains free to submit the question [to the jury], should
+  he so choose."   
+
+       ¶  10.  In September 2000, plaintiff Human Rights Commission filed a
+  motion for summary judgment.  National Elks also filed a second motion for
+  summary judgment in October 2000, followed by Hartford Lodge's motion for
+  summary judgment, which was filed in November 2000.  On October 17, 2001,
+  the superior court ruled on the motions and dismissed the case in favor of
+  defendants.  In its order, written by Judge Katz, the court concluded that
+  "the [FHPA] does not govern the membership of Hartford Elks, merely its
+  operation of its admittedly public facilities. . . . i.e., bingo games and
+  rental of the hall to large groups."  The court reached its conclusion
+  based on its determination that the operative section of the statute, 9
+  V.S.A. § 4502(a), was governed, for the purposes of this case, by the
+  definition of "place of public accommodation" contained in 9 V.S.A. §
+  4501(1), and that this definition did not bar discrimination by the
+  Hartford Elks "providing they remain strictly selective in their membership
+  requirements and procedures."   
+   
+       ¶  11.  In reviewing a grant of summary judgment, we apply the same
+  standard as the superior court.  Wentworth v. Fletcher Allen Health Care,
+  171 Vt. 614, 616, 765 A.2d 456, 459 (2000) (mem.). Summary judgment is
+  appropriate "if the pleadings, depositions, answers to interrogatories, and
+  admissions on file, together with the affidavits, if any, show that there
+  is no genuine issue as to any material fact and that any party is entitled
+  to a judgment as a matter of law."  V.R.C.P. 56(c)(3).  It is not the
+  function of the trial court to find facts on a motion for summary judgment. 
+  Fritzeen v. Trudell Consulting Eng'rs, Inc., 170 Vt. 632, 633, 751 A.2d
+  293, 296 (2000) (mem.).  Thus, as long as a genuine issue of material fact
+  remains, summary judgment may not serve as a substitute for a determination
+  on the merits.  Id.   
+
+                                     I.
+
+       ¶  12.  Plaintiffs first argue that the trial court erred by ruling
+  that, as a matter of law, the Fair Housing and Public Accommodations Act
+  ("FHPA"), 9 V.S.A. §§ 4500-4507, does not bar membership discrimination by
+  fraternal lodges.  Section 4502(a) of the Fair Housing and Public
+  Accommodations Act, a remedial statute, prohibits an owner or operator of a
+  place of public accommodation from refusing or denying a person the
+  advantages or privileges of the place of public accommodation on the basis
+  of the person's race, creed, color, national origin, marital status, sex or
+  sexual orientation.  9 V.S.A. § 4502(a). (FN3)  Section 4501(1) defines
+  "place of public accommodation" as "any school, restaurant, store,
+  establishment or other facility at which services, facilities, goods,
+  privileges, advantages, benefits or accommodations are offered to the
+  general public."  
+   
+       ¶  13.  The interpretation of a statute is a question of law, and
+  therefore this Court's review is "nondeferential and plenary."   In re S.
+  Burlington-Shelburne Hwy. Proj.,13 Vt. L. Wk. 374, 375, 817 A.2d 49, 51
+  (2002) (mem.).  Our paramount goal, when interpreting a statute, is to
+  effectuate the intent of the Legislature.  Tarrant v. Dep't of Taxes, 169
+  Vt. 189, 197, 733 A.2d 733, 739 (1999).  In order to effectuate this
+  intent, we look to the statute's language and any legislative history, as
+  well as the legislative policy the statute was designed to implement. 
+  Perry v. Med. Practice Bd., 169 Vt. 399, 406, 737 A.2d 900, 905 (1999).  We
+  are guided by the "whole of the statute and every part of it, its subject
+  matter, the effect and consequences, and the reason and spirit of the law." 
+  In re P.S., 167 Vt. 63, 70, 702 A.2d 98, 102 (1997).  Where there are
+  similar statutes in other jurisdictions, we are also guided by the
+  interpretations of those statutes.  State v. Weller, 152 Vt. 8, 13, 563
+  A.2d 1318, 1321 (1989).  As a remedial statute, the FHPA must be liberally
+  construed in order to "suppress the evil and advance the remedy" intended
+  by the Legislature. 3 N. Singer, Statutes and Statutory Construction §
+  60.01, at 183 (6th ed. 2001); see also Human Rights Comm'n v. LaBrie, Inc.,
+  164 Vt. 237, 245, 668 A.2d 659, 665 (1995); Town of Killington v. State,
+  172 Vt. 182, 191, 776 A.2d 395, 402 (2001).
+
+       ¶  14.  One such evil that public accommodations statutes, such as the
+  FHPA, seek to suppress is the "deprivation of personal dignity that surely
+  accompanies denials of equal access to public establishments."  Heart of
+  Atlanta Motel, Inc. v. United States, 379 U.S. 241, 250 (1964).  By
+  preventing this "stigmatizing injury, and the denial of equal opportunities
+  that accompanies it," the Legislature, through the FHPA, rejects archaic
+  stereotypes and protects the citizens of Vermont from "a number of serious
+  social and personal harms."  Roberts v. United States Jaycees, 468 U.S.
+  609, 625 (1984) (discussing purpose of similar public accommodations
+  statute in Minnesota). 
+
+       ¶  15.  When the FHPA was first enacted in 1957, predating comparable
+  versions of the federal Civil Rights Act of 1964, sex was not a protected
+  classification.  Over the last forty-five years, however, several
+  amendments have broadened its scope with regard to the groups protected
+  from discrimination under the statute and the establishments or facilities
+  covered by definition.  In Vermont, it has been illegal to deny a person
+  the privileges or advantages of a place of public accommodation on the
+  basis of sex since 1988.  See 1987, No. 74, § 1 (codified at 9 V.S.A. §
+  4502(a)) (adding sex as a protected classification under the statute).
+  (FN4)  
+       
+       ¶  16.  Many states, as well as the federal government, have created
+  an exemption from the definition of "place of public accommodation" for
+  bona fide clubs which are distinctly private in nature.  See, e.g., Ariz.
+  Rev. Stat. Ann. § 41-1441(2) (West 1992); Ark. Code Ann. § 16-123-102(7)(B)
+  (Michie Supp. 2003); Idaho Code § 18-7302(e) (Michie 1997); Kan. Stat. Ann.
+  § 44-1002(h) (2000); Ky. Rev. Stat. Ann. § 344.130(1) (Michie 2001); La.
+  Rev. Stat. Ann. § 49:146(A)(2) (West 2003); Md. Code Ann., Art. 49B, § 5(f)
+  (2003); Mich. Comp. Laws Ann. § 37.2303 (West 2001); Minn. Stat. Ann. §
+  363.02(2) (West 1991); Mont. Code Ann. § 49-2-101(20)(b) (2003);  Neb. Rev.
+  Stat. § 20-138 (1997); N.H. Rev. Stat. Ann. § 354-A:2 (XIV) (1995); N.M.
+  Stat. Ann. § 28-1-2(H) (Michie 2000); N.D. Cent. Code § 14-02.4-02(12)
+  (1997); Okla. Stat. Ann. 25 § 1401(1)(i) (West 1987); Or. Rev. Stat. §
+  659A.400(2) (2001); R.I. Gen. Laws § 11-24-3 (2002);  S.C. Code Ann. §
+  45-9-20 (2002); S.D. Codified Laws § 20-13-1(12) (2002); Tenn. Code Ann. §
+  4-21-102 (2003); Utah Code Ann. § 13-7-2(1) (2001); Wash. Rev. Code Ann. §
+  49.60.040(10) (West 2002); Wis. Stat. Ann. § 106.52(1)(e)(2) (West 2002). 
+  The public accommodations statute in New York goes further and specifically
+  includes benevolent orders, such as the Elks, within its "distinctly
+  private" exemption.  N.Y. Executive Law § 292(9) (McKinney 2001) ("For the
+  purposes of this section, a corporation incorporated under the benevolent
+  orders law or described in the benevolent orders law but formed under any
+  other law of this state . . . shall be deemed to be in its nature
+  distinctly private.").  
+   
+       ¶  17.  Our Legislature, however, did not create such an exemption
+  for fraternal organizations in the FHPA.  The Legislature has created
+  exemptions for fraternal organizations when it clearly intends to exempt
+  fraternal organizations from the ambit of a statute.  For example, the
+  Legislature has included several exceptions for fraternal organizations and
+  institutions in other statutes.  See 31 V.S.A. § 506 (municipal regulation
+  of dance halls, bowling alleys, pool halls and coasting); 9 V.S.A. §
+  4452(3) (residential rental agreements); 18 V.S.A. § 1743(1) (smoking in
+  public places).  The Elks contend that such an exemption is not necessary
+  where, as the group argued here, a fraternal organization is clearly not
+  included under the definition of "place of public accommodation" in the
+  first place.  In 1993, however, the Legislature specifically exempted from
+  "places of public access," 18 V.S.A. § 1741(2), "buildings owned and
+  operated by . . . fraternal . . . organizations when used by the membership
+  of the organization, their guests or families  . . ." from the restrictions
+  on the possession of lighted tobacco products.  Id. § 1743(1).  Finally, in
+  9 V.S.A. § 4502(d), the Legislature created an exemption to the public
+  accommodations section of the FHPA for owners of establishments which
+  provide lodging to transient guests with five or fewer rooms for rent, and
+  it did not include fraternal organizations within this exemption section. 
+  We will not presume an exemption to exist where the Legislature has not so
+  intended or indicated through the plain language of the statute.  Cf. Vt.
+  Dev. Credit Corp. v. Kitchel, 149 Vt. 421, 425, 544 A.2d 1165, 1167 (1988)
+  (if Legislature intended to exempt an organization from a statute it could
+  have added them to list of exempted organizations, and where it did not, we
+  will not presume an exemption to exist). 
+
+       ¶  18.  Notwithstanding the trial court's doubt that the Legislature
+  considered the potential impact of the FHPA on fraternal organizations, the
+  trial court's summary judgment opinion properly framed the salient question
+  before it: "The issue in this case is whether the Hartford Elks, and more
+  specifically membership in the Hartford Elks, is a 'place of public
+  accommodation' such that it is subject to the provisions of the statute." 
+  For the reasons more fully explained below, we conclude that answering that
+  question on summary judgment was premature, given the genuine issues of
+  material fact still in dispute.
+
+                                     II.
+   
+       ¶  19.  The assessment of whether a club constitutes a place of
+  public accommodation rather than a private selection entity has been the
+  subject of substantial case law. See Franklin Lodge, 825 A.2d at  485
+  (listing cases).  Courts have commonly applied and weighed several factors
+  to determine whether a club is private or public including: a) whether the
+  group's membership is genuinely selective; b) the amount of control the
+  existing members have over the club's operations; c) the history of the
+  organization; d) the use of club facilities by non-members; e) whether the
+  organization advertises or directs its publicity to anyone other than
+  members; f) the purpose of the organization; and g) any profit motive. 
+  See, e.g., id.; McClure, 305 N.W.2d at 770 (stating that two criteria tend
+  to be used in cases deciding whether a group is private or public for the
+  purposes of a public accommodations statute: (1) the selectiveness of the
+  group in the admission of members and (2) the existence of limits on the
+  size of the membership).
+
+       ¶  20.  The principal factor in determining whether a club fits within
+  the definition of "place of public accommodation" is a club's selectivity. 
+  See Fraternal Order of Eagles, Tenino Aerie No. 564, 59 P.3d at 669
+  ("Inquiry entails examining the selectivity of the organization in
+  membership practices and scrutinizing whether the invitation to gather is
+  open to the public."); United States v. Trustees of the Fraternal Order of
+  Eagles, Milwaukee Aerie No. 137, 472 F. Supp. 1174, 1175 (E.D. Wisc. 1979)
+  ("[T]he most important factor in determining whether a club is in fact
+  private is the process which the club actually uses in selecting its
+  members.") (emphasis added).  It is not enough for an organization to
+  appear selective on paper while in fact offering memberships to the general
+  public; rather an organization must be genuinely selective.  See United
+  States v. Lansdowne Swim Club, 894 F.2d 83, 86 (3d Cir. 1990).  Procedures
+  and criteria for membership are "insufficient to establish selectivity
+  where they do not function as true limits on admission."  Franklin Lodge,
+  825 A.2d at 486.
+   
+       ¶  21.  This selectivity factor is so important that it alone may
+  determinative of the outcome if an organization lacks genuine selectivity. 
+  Id..  "[A] formal procedure requiring nothing more than membership approval
+  is insufficient to show genuine selectivity."  Lansdowne Swim Club, 894
+  F.2d at 86 (determining that swim club criteria for membership admission of
+  being interviewed, completing an application, submitting two letters of
+  recommendation and tendering payment of fees were not "genuinely
+  selective"); see also Trustees of the Fraternal Order of Eagles, Milwaukee
+  Aerie No. 137, 472 F. Supp. at 1176 (finding that Eagles Club formal
+  membership requirements were not selective in fact when, among other
+  factors, the number of applications accepted were compared with the number
+  of rejected applications). 
+
+       ¶  22.  Hartford Lodge substantially relies upon Kiwanis Int'l v.
+  Ridgewood Kiwanis Club, 806 F.2d 468, 476 (3d Cir. 1986), in which the
+  United States Court of Appeals held that a local club, Kiwanis Ridgewood,
+  was not a "place of public accommodation" within the meaning of New
+  Jersey's statute that prohibits unlawful discrimination in places of public
+  accommodation.  In stark contrast to Hartford Lodge, which has some
+  800-1000 members, the Kiwanis Ridgewood club had only twenty-eight members. 
+  Id. at 475.  In its selectivity analysis, the court noted that ten of the
+  twenty-eight members had been members for over twenty years, and that, in
+  the decade preceding the case, Kiwanis Ridgewood admitted no more than
+  twenty new members.  Id.  Hartford Lodge admitted approximately 270 new
+  members from 1990-1999, and there is no indication that the Elks have a
+  limit on the number of new members allowed. 
+   
+       ¶  23.   Here, plaintiffs presented evidence on summary judgment that
+  National Elks issues a Membership Control Manual to all Lodges in which it
+  emphasizes the importance of maintaining "good business principles and
+  management practices" in "a Lodge's Membership Procurement Program."  The
+  manual encourages each lodge to set definite goals for "Membership
+  Procurement" of  "at least 10 percent of the year's beginning membership:
+  i.e., if membership was 700 on April 1, the Lodge's goal should be to
+  initiate 70 new members."  National Elks encourages lodges to "promote
+  friendly rivalries among committees and the membership, both for submitting
+  the names of prospects and for actually signing them up" and to "reward a
+  winning committee or team with a free dinner or other minor recognition."
+  The National Grand Lodge gives awards and offers incentives for members who
+  sponsor or recruit a certain number of new members.   In a sample letter
+  for new members, it writes that membership would be beneficial to "every
+  one of our neighbors who is at least 21 and believes in God and in helping
+  others." The Minnesota Supreme Court has declared that this kind of
+  "continuous concern for growth undercuts [a] national organization's claim
+  to be a private organization."  McClure, 305 N.W.2d at 771 (holding that
+  the United States Jaycees was a "place of public accommodation" covered by
+  statute).
+
+       ¶  24.  Because the nature of a court's inquiry into whether an
+  organization offers memberships to the general public is fact specific,
+  determinations must be made on a case-by-case basis.  The material factual
+  findings required for a determination of genuine selectivity must be made
+  by the trier of fact. See Lahmann, 43 P.3d at 1131 (holding that "the
+  question whether the Fraternal Order of the Eagles is a 'place of public
+  accommodation' presents a disputed issue of material fact"); New York State
+  Club Ass'n, Inc. v. City of New York, 505 N.E.2d 915, 919 (N.Y. 1987),
+  aff'd 487 U.S. 1, 18 (1988) ("whether a 'distinctly private' club is a
+  place of public accommodation is a question of fact").  As defendant
+  Hartford Lodge conceded at oral argument before this Court, the defendants'
+  selectivity was "a very hotly disputed issue."  
+   
+       ¶  25.  As noted,  plaintiffs have alleged that, from 1990-99, only
+  ten applications have been rejected by the Hartford Lodge out of over 270
+  total applications.  Seven of the rejected applicants were women, one was
+  an African American man, and one had a criminal record.  Based on this
+  allegation, plaintiffs alleged that Hartford Lodge has a 99.3% acceptance
+  rate for all white men.  In its response  to plaintiffs' statement of
+  undisputed facts Hartford Lodge did not dispute plaintiffs' raw numbers,
+  but asserted that they yielded a somewhat lower acceptance rate of 97%. 
+  More important, Hartford Lodge also alleged that the numbers were
+  misleading because, in fact, the first step in its application process is
+  to screen potential members "for compatibility with existing members."  It
+  further alleged that many potential applicants fail to pass this step. 
+  Thus, Hartford Lodge argued, in effect, that it was far more selective than
+  the final acceptance figures suggested.
+
+       ¶  26.  These conflicting claims concerning the actual selectivity
+  level of Hartford Lodge are highly material, and remain in sharp dispute. 
+  Furthermore, there is no indication that the trial court considered or
+  reviewed these material allegations in determining that the Elks is "more
+  private than public." The formal membership procedures that the Elks claim
+  to use are not alone sufficient for a finding of genuine selectivity.  See
+  Franklin Lodge, 825 A.2d at 486 (determining that use of particular
+  membership criteria and formal screening procedures by Elks are inadequate
+  to establish selectivity where "virtually all men who apply and satisfy
+  minimum standards are admitted").  Because genuine issues of material fact
+  remained regarding defendants' selectivity in extending memberships, it was
+  not appropriate for the trial court to find that the Hartford Lodge was not
+  subject to the Vermont Public Accommodations statute. See Fritzeen, 170 Vt.
+  at 633, 751 A.2d at 296 (trial court should not find facts on a motion for
+  summary judgment, nor should summary judgment serve as a replacement for a
+  determination on the merits when a genuine issue of material fact remains);
+  Fraternal Order of Eagles, Tenino Aerie No. 564, 59 P.3d at 670 n.126 ("The
+  'distinctly private' factors serve as material facts because the outcome of
+  the case relies on proving the factors favor one conclusion over the
+  other."). 
+
+                                    III.
+   
+       ¶  27.  National Elks asserts that the summary judgment in its favor
+  should be affirmed for reasons independent of the trial court's conclusion
+  that FHPA does not regulate Hartford's membership.  Those additional
+  reasons are: (1) National Elks is not a "place" and thus cannot be a "place
+  of public accommodation" under the FHPA; (2) National Elks is not an "owner
+  or operator of a place of public accommodation" and thus the FHPA does not
+  apply to it; and (3) National Elks cannot be held liable for the alleged
+  discriminatory action of the local lodge.  National Elks concedes that the
+  trial court did not reach these additional issues, but invites us to affirm
+  summary judgment as to National Elks on any or each of those grounds.  We
+  decline to do so.  
+
+       ¶  28.  First, we are unpersuaded by National Elks' argument that
+  because it does not own a "place" within Vermont, it is insulated from the
+  reach of the public accommodations statute.  See Roberts, 468 U.S. at 616
+  (application of Minnesota Human Rights Act to nonprofit national membership
+  appellee United States held valid where Minnesota Supreme Court determined
+  appellee was "a place of public accommodation" within the meaning of the
+  Act). (FN5) 
+
+       ¶  29.  Second, decision on the issue of National Elks' liability, if
+  any, for the alleged discriminatory acts of Hartford Lodge is premature. 
+  Material issues of fact remain as to whether the Lodge is a public or
+  private entity for purposes of the FHPA.  Further, plaintiffs have alleged
+  that National Elks has substantial and direct supervisory responsibility
+  over Hartford Lodge, a representation vigorously disputed by National Elks. 
+  National Elks' related legal arguments that agency law and the common law
+  integrated enterprise doctrine disfavor the imputation of liability for
+  discrimination must similarly await the development of a factual record
+  more complete than the one before us.  
+
+                                     IV.
+   
+       ¶  30.  Because we conclude that lodge membership is not necessarily
+  excluded from the definition of "place of public accommodation" under the
+  FHPA, we also address defendant National Elks' argument that this reading
+  of the statute renders it unconstitutionally overbroad and vague.  The
+  United States Supreme Court has declared that the "overbreadth doctrine"
+  must be used "sparingly" and "as a last resort."  Broadrick v. Oklahoma,
+  413 U.S. 601, 613 (1973).    In Roberts, the Court upheld the Minnesota
+  Supreme Court's interpretation of the state's public accommodations statute
+  because the court adopted "commonly used and sufficiently precise
+  standards" and applied constructions that would exclude private groups from
+  the statute's reach.  468 U.S. at 631.  The Court determined that the
+  'sufficiently precise standards' included, "a number of specific and
+  objective criteria - regarding the organization's size, selectivity,
+  commercial nature, and use of public facilities - typically employed in
+  determining the applicability of state and federal antidiscrimination
+  statutes to the membership policies of assertedly private clubs." Id. at
+  629.  Thus, the statute, explained the United States Supreme Court, "does
+  not create an unacceptable risk of application to a substantial amount of
+  protected conduct."  Id. at 631.  The Minnesota public accommodations
+  statute contains language similar to Vermont's FHPA, and we have
+  interpreted it on similar grounds using the same familiar standards of
+  application.  Thus, we do not agree with defendants' contention that our
+  reading of the statute and use of the applicable tests renders the statute
+  overbroad.  
+   
+       ¶  31.  When a statute forbids the doing of an act in terms so vague
+  that persons of common intelligence must guess at its meaning and differ as
+  to its application, it is void for vagueness.  In re S.M., 2003 VT 41,  14,
+  824 A.2d 593.  As with the overbreadth analysis above, the test we
+  articulated for determining the reach of the FHPA to membership
+  organizations is similar to the standards that were formulated by the
+  Minnesota Supreme Court in McClure and upheld by the United States Supreme
+  Court in Roberts.  This confined application ensures that the statute's
+  scope is "readily ascertainable" and removes any void-for-vagueness
+  concerns.  See Roberts, 468 U.S. at 629-30. 
+
+       ¶  32.  National Elks and Hartford Lodge assert that the FHPA is
+  unconstitutional if applied to membership votes of local fraternal lodges,
+  arguing freedom of intimate association on personal liberty grounds and
+  freedom of expressive association as a First Amendment claim.  It is
+  unnecessary to address this constitutional claim given the posture of the
+  case before us, and we will not do so.  In re Wildlife Wonderland, Inc.,
+  133 Vt. 507, 520, 346 A.2d 645, 653 (1975) (declaring that we will not
+  consider constitutional claims unless disposition of the case requires it).  
+   
+       ¶  33.  We note that in order to preserve the individual liberty
+  secured by the Bill of Rights, highly personal relationships, such as
+  familial relationships, must be protected from unjustified interference by
+  the State.  Roberts, 468 U.S. at 618-19.  These relationships are often
+  characterized by their "relative smallness, a high degree of selectivity in
+  decisions to begin and maintain the affiliation, and seclusion from others
+  in critical aspects of the relationship."  Id. at 620. Thus, personal
+  associations that lack these qualities will not necessarily be afforded
+  such protection.  See id. at 621 (finding "the Jaycees chapters lack the
+  distinctive characteristics that might afford constitutional protection to
+  the decision of its members to exclude women" because the two local
+  chapters were "neither small nor selective" where each chapter had around
+  400 members and new members were "routinely recruited and admitted with no
+  inquiry into their background" and a local officer "could recall no
+  instance in which an applicant had been denied membership on any basis
+  other than age or sex").  The United States Supreme Court has explained
+  that simply because some amount of intimate association may occur in a
+  club, as may also occur in many restaurants and other places of public
+  accommodation, that alone "does not afford the entity as a whole any
+  constitutional immunity to practice discrimination when the government has
+  barred it from doing so."  New York State Club Ass'n, 487 U.S. at 12.  Like
+  the test for "genuine selectivity" to decide whether an organization is
+  included under the definition of "place of public accommodation," certain
+  factual findings must be made by the trier of fact before we can fully
+  consider Hartford Lodge's intimate association claim under the test
+  discussed by the United States Supreme Court in Roberts.  See Lahmann, 43
+  P.3d at 1138 (declining to reach the issue of whether applying the Oregon
+  Public Accommodation Act to the Fraternal Order of Eagles violates their
+  right of association until after factual findings have been made).
+   
+       ¶  34.   Similarly, a freedom-of-expressive-association First
+  Amendment claim requires courts to "examine whether or not the application
+  of the state law would impose any 'serious burden' on the organization's
+  rights of expressive association. . . . [T]he associational interest in
+  freedom of expression [is] set on one side of the scale, and the State's
+  interest on the other."  Boy Scouts of America v. Dale, 530 U.S. 640,
+  658-59 (2000).  The argument that the FHPA is unconstitutional if applied
+  to the membership votes of local fraternal lodges requires a much greater
+  record than is before us.  See New York State Club Ass'n, 487 U.S. at 10
+  (without record of actual fact that a substantial number of instances exist
+  in which antidiscrimination law cannot be applied constitutionally, it
+  cannot be concluded that the law threatens to undermine the associational
+  or expressive purposes of any club, let alone a substantial number of
+  them). We cannot conclude that the FHPA is unconstitutional on the basis of
+  what is before us, and will not assume the overbreadth ascribed to it by
+  appellees.  See id.; Broadrick, 413 U.S. at 615-16 ("whatever overbreadth
+  may exist should be cured through case-by-case analysis of the fact
+  situations to which its sanctions, assertedly, may not be applied"). 
+
+
+       Reversed and remanded for further proceedings consistent with this
+  opinion.
+
+
+                                       FOR THE COURT:
+
+
+                                       _______________________________________
+                                       Chief Justice
+
+
+------------------------------------------------------------------------------
+                                  Footnotes
+
+
+FN1.  Justice Morse sat for oral argument but did not participate in this
+  decision.
+
+FN2.  At the time of oral argument, Hartford Lodge had admitted women as
+  members.
+
+FN3.  Section 4502(a) of Title 9 reads:
+
+    An owner or operator of a place of public accommodation or an
+    agent or employee of such owner or operator shall not, because of
+    the race, creed, color, national origin, marital status, sex or
+    sexual orientation of any person, refuse, withhold from or deny to
+    that person any of the accommodations, advantages, facilities and
+    privileges of the place of public accommodation.
+
+FN4.  In his summary judgment decision, Judge Katz observed that "we would
+  expect an amendment regulating 'gender discrimination' within Vermont's
+  fraternal organizations to have engendered considerable discussion.  There
+  was none on the subject."  We note first that both the trial court's and
+  National Elks' citations refer only to legislative committee hearings from
+  the 1992 amendments, at which time the Legislature added the definition for
+  "public accommodation" contained in 9 V.S.A. § 4501(8).  We have
+  determined, however, that this is not the relevant portion of the statute. 
+  Furthermore, we have been unable to ascertain whether there was legislative
+  debate in the 1987 session, Act No. 74 (H. 180), which added "sex" as a
+  protected classification.  While legislative discussion on the matter could
+  be helpful in determining legislative intent, the issue of whether any
+  debate existed is not dispositive or necessarily instructive.  See, e.g.,
+  Vt. Dev. Credit Corp. v. Kitchel, 149 Vt. 421, 428, 544 A.2d 1165, 1169
+  (1988) (testimony and statements of legislative witnesses and individual
+  legislators were "inconclusive at best, and, standing alone, 'have never
+  been regarded as sufficiently compelling to justify deviation from the
+  plain language of a statute' ") (quoting United States v. Oregon, 366 U.S.
+  643, 648 (1961)).
+
+FN5.  Minnesota defines "place of public accommodation" as "a business,
+  accommodation, refreshment, entertainment, recreation, or transportation
+  facility of any kind, whether licensed or not, whose goods, services,
+  facilities, privileges, advantages or accommodations are extended, offered,
+  sold, or otherwise made available to the public."  Minn. Stat. § 363.01(33)
+  (1991).  Compare with 9 V.S.A.  § 4501(1) which defines "place of public
+  accommodation" as "any school, restaurant, store, establishment or other
+  facility at which services, facilities, goods, privileges, advantages,
+  benefits or accommodations are offered to the general public."
+
+
