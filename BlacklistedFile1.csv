@@ -1,0 +1,429 @@
+Index,Sensitivity
+abu sayyaf,2
+accident,1
+active attack,1
+active content,1
+active cyber defense,1
+active directory,1
+active directory authentication library,1
+active directory domain service,1
+active directory federation services,1
+active security testing,1
+active server pages,1
+active state,1
+active tag,1
+activist,1
+adware,3
+aegis,2
+afghanistan,1
+agro,2
+al qasam,3
+al queda,2
+al shabaabcontamination,3
+alqeuada,3
+ammonium nitrate,1
+anonymous,2
+anti-virus,2
+antivirus software,2
+apt,3
+aqap al qaeda arabian peninsula,3
+aqim al qaeda in the islamic maghreb,3
+arakat al isl miyyah,3
+arakat al islamiyyah,3
+arbitrariness,2
+armament,2
+armed,3
+armor,2
+assassination,3
+asset,1
+asylum,2
+atrocity,2
+attack,2
+attacker,1
+attacks,1
+authentication,1
+authorization,1
+avn,3
+backdoor,3
+backing up,1
+backscatter channel,1
+backtracking resistance,1
+bagn,1
+bandits,2
+bane,1
+basque separatists,3
+bcp,3
+behavior monitoring,2
+benovelent,1
+bigotry,2
+biological weapon,3
+black,1
+black box testing,1
+black core,1
+black data,1
+blacklist,1
+blacklisting,1
+blast,3
+blaze,2
+blended attack,1
+block,1
+block cipher,2
+block cipher algorithm,2
+block cipher mode of operation,1
+block cipher-based message authentication code,1
+block data,1
+blowout,1
+bomb,3
+bomber,3
+bombing,3
+bombs,3
+bombshell,2
+boot sector,2
+bot,2
+botnet,3
+breach,3
+breaches,3
+brigades,2
+brute forcing,3
+bug,1
+bunch,1
+burst,1
+byod,3
+cain and abel,3
+calamity,2
+car bomb,3
+cartel,2
+case,1
+catastrophe,1
+chaining,3
+chemical spill,3
+chemical weapon,3
+china,1
+chineese,1
+cipher,3
+ciphertext,3
+clan,2
+clickjacking,3
+clique,1
+cocaine,3
+coderpunks,3
+codes,2
+collapse,1
+computer,1
+conficker,2
+conflagration,3
+conventional weapon,2
+corrpution,1
+countries,1
+country,1
+crash,1
+crime,1
+crimeware,2
+criminality,3
+criminals,3
+custody,2
+cyber,3
+cyber attack,3
+cyber attacks,3
+cyber command,3
+cyber ecosystem,3
+cyber security,3
+cyber teams,3
+cyber terror,3
+cyberattack,3
+cyberespionage,3
+cybersecurity,3
+cypher,2
+cypherpunks,3
+danger,1
+dangerous,1
+dark net,3
+dark sites,3
+data breach,3
+data havens,2
+data integrity,1
+data mining,1
+data theft,2
+data-encryption key,3
+dawah,2
+ddos distributed denial of service,3
+death,1
+deaths,1
+debacle,2
+debugger,2
+decipher,3
+decision or branch coverage,1
+decode,2
+decryption,2
+decryption-verification,2
+decypher,3
+dedicated line,1
+dedicated proxy server,1
+deep web,3
+default classification,1
+defect,1
+defect check,1
+defect type,1
+defense,1
+denial,2
+denial of service,3
+denial service,3
+detonation,2
+dirty,2
+dirty bomb,3
+disaster,1
+disaster medical assistance team dmat,1
+dogma,1
+domestic,1
+domestic nuclear detection,3
+domestic security,3
+dope,2
+dos,3
+drug,3
+drug cartel,3
+dynamite,1
+eco terrorism,3
+emergency,1
+emergency landing,2
+emergency management,2
+emergency response,2
+environmental terrorist,2
+error code,1
+eta euskadi ta askatasuna,3
+evacuation,1
+exe,1
+executable,1
+exignecy,3
+expert,1
+explicit,2
+explosion,3
+explosive,3
+exposure,1
+expuslion,2
+extremism,1
+extremity,1
+faction,1
+farc armed revolutionary forces colombia,3
+fawzi barhoum,3
+file binder,2
+firewall,2
+firing,3
+first responder,3
+fish,1
+flame,3
+flare,2
+flash,1
+forces,1
+fraud,1
+fulmination,2
+fundamanetalist,1
+fundamental,1
+fundamentalism,1
+fundamentally,1
+fundamentals,1
+gang,2
+gangs,2
+gaza strip,2
+gelignite,3
+girded,1
+grenade,3
+guerrilla,3
+guilt,1
+gun,3
+gunpowder,3
+hacker,3
+hackers,3
+hacktivism,2
+hamas,3
+hamas hezbollah islamist,3
+hatred,1
+hazard,1
+hazardous materials,1
+hazmat,3
+heroin,3
+hezbollah jihad,3
+hijack,3
+hijacker,3
+holocaust,3
+homeland security,3
+honeypot,2
+hostage,1
+iaas,1
+ida,1
+identity cloning,1
+identity fraud,2
+ied,3
+ied improvised explosive device,3
+illegal,2
+immunity,1
+infect,2
+injury,1
+intolerance,1
+ira irish republican army,3
+iran,1
+iraq,1
+islam,1
+islamic resistance,3
+islamist,1
+ismail haniyeh,3
+isssp,3
+key logger,3
+keylogger,3
+landmine,3
+letter bomb,3
+loaded,1
+mac tag,1
+macro,2
+macro virus,2
+malicious,3
+malovelent program,2
+malware,2
+malware bot,3
+marijuana,3
+maritime domain awareness mda,3
+medicament,1
+militia,3
+mine,2
+missile,3
+muqawamah al,3
+muslim,1
+muslim brotherhood,1
+muslim nations,1
+mysql injection,2
+naiag,3
+narcotic,3
+narcotics,3
+nation,1
+national security,3
+navies,1
+nigeria,1
+nuclear,3
+nuclear facility,3
+nuclear threat,3
+nuclear weapon,3
+offenders,2
+offenses,3
+olly debugger,3
+onion,3
+organized crime,2
+packet sniffing,3
+pakistan,2
+palestina,1
+palestina liberation front,3
+password cracking,3
+password protected,3
+patch,1
+patch management,1
+payload,2
+payment card skimmers,2
+pen testing,2
+pharmaceutic,1
+phisher,3
+phishing,3
+phreaking,2
+pill,2
+pipe bomb,3
+piracy,3
+pirates,2
+pki,3
+playboy,2
+plo palestine libration organization,3
+plot,1
+poison,2
+police,1
+pornstars,3
+pos,1
+projectile,1
+quarantine,2
+radical,1
+radicals,2
+ransom,1
+ransomware,3
+rebel,2
+recovery,1
+recruitment,1
+redheads,2
+remailers,2
+replay,2
+resident virus,3
+response,2
+restore,1
+reverse engineering,3
+revolution,1
+risk assessment,1
+risk management,1
+riskware,3
+rocket,1
+rocket attacks,3
+rogue,3
+rootkit,3
+scammers,3
+scandal,3
+security,2
+sedative,2
+service denied,2
+sex,3
+shield,1
+shooting,3
+shots fired,3
+skill,1
+slip,3
+smuggle,3
+social media,2
+somalia,3
+spam,3
+spammer,3
+spear phishing,3
+spoof,3
+spyware,3
+squad,1
+stabbing,2
+state of emergency,3
+stealware,3
+stimulant,2
+subversives,2
+suicide,3
+suicide attack,3
+suicide bomber,3
+sunni,1
+supply chain,1
+surveillance,2
+suspicious package device,3
+suspicious substance,3
+taliban,3
+tamil tiger,3
+target,2
+tension,1
+terror,1
+terrorism,3
+terrorist,3
+terrorist activity,3
+threat assessment,2
+thug,1
+ticker,1
+tnt,2
+toad,2
+tor,3
+tor browser,3
+torpedo,1
+toxic,2
+tragedy,1
+tribe,1
+trojan,3
+trojan horse,3
+trw,3
+ttp tehrik i taliban pakistan,3
+underground web,3
+violence,1
+virus,2
+virus hoax,3
+war,2
+weapon,2
+weapons cache,3
+weapons grade,3
+wild,1
+wild fire,1
+worm,3
+yemen,1
+zero day,3
+zombie,2
