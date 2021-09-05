@@ -1,0 +1,1390 @@
+Identification_Information:
+
+    Citation:
+        Citation_Information:
+            Originator: U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+            Publication_Date:  20090107
+            Title: Geological data of field activity G-76-80-FL in Norfolk, 
+                   Virginia to Fort Lauderdale, Florida from 10/00/1980 to 
+                   12/00/1980                                                   
+            Publication_Information:
+                Publisher:   U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+            Online_Linkage:  http://walrus.wr.usgs.gov/infobank/gos/g-76-80-fl.fmeta.xml
+            Online_Linkage:  http://walrus.wr.usgs.gov/infobank/g/g7680fl/html/g-76-80-fl.meta.html
+
+    Description:
+        Abstract:  Geological data (navigation) of field activity G-76-80-FL 
+                  in Norfolk, Virginia to Fort Lauderdale, Florida from 
+                  10/00/1980 to 12/00/1980,                                     
+                  http://walrus.wr.usgs.gov/infobank/g/g7680fl/html/g-76-80-fl.meta.html.
+
+        Purpose:  These data and information are intended for science 
+                  researchers, students from elementary through 
+                  college, policy makers, and general public.
+
+        Supplemental_Information: 
+
+                                  Equipment Used -
+
+                                  navigation                    data directory exists
+
+                                  Publications -
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah Marie, 
+
+                                  Habib, Dan, Jenden, Peter D., Kagami, Hideo, Keenan, Everly M., Kostecki, John, 
+
+                                  Kvenvolden, Keith A., Moullade, Michel, Ogg, James, Robertson, Alastair H.F., Roth, Peter H., 
+
+                                  Shipley, Thomas H., Wells, Larry, Bowdler, Jay L., Cotillon, Pierre H., Halley, Robert B., 
+
+                                  Kinoshita, Hajimu, Patton, James W., Pisciotto, Kenneth A., Premoli-Silva, Isabella, 
+
+                                  Testarmata, Margaret M., Tyson, Richard V., and Watkins, David K., 1982, Early history of the 
+
+                                  Atlantic Ocean and gas hydrates on the Blake Outer Ridge; results of the Deep Sea Drilling 
+
+                                  Project Leg 76: Geological Society of America Bulletin, v. 93, no. 9, p. 876-885.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., Shipley, Thomas H., 
+
+                                  Bowdler, Jay L., Cotillon, Pierre H., Halley, Robert B., Kinoshita, Hajimu, Patton, James W., 
+
+                                  Pisciotto, Kenneth A., Premoli-Silva, Isabella, Testarmata, Margaret M., and Watkins, David K.,
+
+                                  1983, Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the 
+
+                                  drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 
+
+                                  1980, in Orlofsky, Susan, ed.: Initial Reports of the Deep Sea Drilling Project, v. 76, 947 p.<BR>
+
+                                  <HR>
+
+                                  Gradstein, Felix M., and Sheridan, Robert E., 1983, Introduction, in Orlofsky, Susan, ed., Initial 
+
+                                  reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel 
+
+                                  Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial 
+
+                                  Reports of the Deep Sea Drilling Project, v. 76, p. 5-18.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Explanatory notes, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 19-33<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Site 533; Blake Outer Ridge, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 35-140.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Site 534; Blake-Bahama Basin, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 141-340.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Magnetic, bathymetric, seismic reflection, and positioning data collected underway on Glomar 
+
+                                  Challenger, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 341-349.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Gas hydrates of the Blake Outer Ridge, Site 533, Deep Sea Drilling Project Leg 76, in Orlofsky, 
+
+                                  Susan, ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of 
+
+                                  the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-
+
+                                  December, 1980: Initial Reports of the Deep Sea Drilling Project, v. 76, p. 353-365.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Pressure core barrel; application to the study of gas hydrates, Deep Sea Drilling Project 
+
+                                  Site 533, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 367-375.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Molecular and isotopic compositions of hydrocarbons at Site 533, Deep Sea Drilling Project Leg 76, 
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 377-389.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Anoxic diagenesis and methane generation in sediments of the Blake Outer Ridge, Deep Sea 
+
+                                  Drilling Project Site 533, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling 
+
+                                  Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia 
+
+                                  to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 391-402.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Concentrations and carbon isotopic compositions of CH (sub 4) and CO (sub 2) in gas from 
+
+                                  sediments of the Blake Outer Ridge, Deep Sea Drilling Project Leg 76, in Orlofsky, Susan, ed., 
+
+                                  Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling 
+
+                                  vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: 
+
+                                  Initial Reports of the Deep Sea Drilling Project, v. 76, p. 403-411.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Mineralogy and geochemistry of carbonate diagenesis of the Pliocene and Pleistocene hemipelagic 
+
+                                  mud on the Blake Outer Ridge, Suite 533, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep 
+
+                                  Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, 
+
+                                  Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling 
+
+                                  Project, v. 76, p. 411-427.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Geochemistry and mineralogy of selected carbonaceous claystones in the Lower Cretaceous 
+
+                                  from the Blake-Bahama Basin, North Atlantic, in Orlofsky, Susan, ed., Initial reports of the 
+
+                                  Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, 
+
+                                  Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep 
+
+                                  Sea Drilling Project, v. 76, p. 429-436.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Clay mineralogical and inorganic geochemical stratigraphy of Blake-Bahama Basin since the Callovian, 
+
+                                  Site 534, Deep Sea Drilling Project Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea 
+
+                                  Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, 
+
+                                  Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling 
+
+                                  Project, v. 76, p. 437-451.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Chemical and isotopic composition of interstitial water from Deep Sea Drilling Project sites 
+
+                                  533 and 534, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 453-461.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Organic geochemical character of some Deep Sea Drilling Project cores from legs 76 and 44, 
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 463-468.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Organic facies of Cretaceous and Jurassic sediments from Deep Sea Drilling Project Site 534 
+
+                                  in the Blake-Bahama Basin, western North Atlantic, in Orlofsky, Susan, ed., Initial reports of the 
+
+                                  Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, 
+
+                                  Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep 
+
+                                  Sea Drilling Project, v. 76, p. 469-480.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Organic geochemistry in the Mesozoic and Cenozoic formations on Site 534, Leg 76, Blake-Bahama 
+
+                                  Basin, and comparison with Site 391, Leg 44, in Orlofsky, Susan, ed., Initial reports of the Deep 
+
+                                  Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, 
+
+                                  Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep 
+
+                                  Sea Drilling Project, v. 76, p. 481-493.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Benthic foraminifers of Site 533, Leg 76 of the Deep Sea Drilling Project; faunal variations 
+
+                                  during the Pliocene and Pleistocene on the Blake Outer Ridge (western North Atlantic), in Orlofsky, 
+
+                                  Susan, ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of 
+
+                                  the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, 
+
+                                  October-December, 1980: Initial Reports of the Deep Sea Drilling Project, v. 76, p. 497-509.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Upper Neogene and Quaternary planktonic foraminifers from the Blake Outer Ridge and Blake-Bahama 
+
+                                  Basin (western North Atlantic), Deep Sea Drilling Project Leg 76, sites 533 and 534, in Orlofsky, 
+
+                                  Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 511-535.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Paleoecology and stratigraphy of Jurassic abyssal foraminifera in the Blake-Bahama Basin, 
+
+                                  Deep Sea Drilling Project Site, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling 
+
+                                  Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, 
+
+                                  Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea 
+
+                                  Drilling Project, v. 76, p. 537-559.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Calpionellids and the Jurassic/Cretaceous boundary at Deep Sea Drilling Project Site 534, 
+
+                                  western North Atlantic Ocean, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling 
+
+                                  Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, 
+
+                                  Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea 
+
+                                  Drilling Project, v. 76, p. 561-567.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Summary of Middle Jurassic-Early Cretaceous radiolarian biostratigraphy of Site 534 
+
+                                  (Blake-Bahama Basin) and correlation to Tethyan sections, in Orlofsky, Susan, ed., Initial reports 
+
+                                  of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar 
+
+                                  Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial 
+
+                                  Reports of the Deep Sea Drilling Project, v. 76, p. 569-571.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Jurassic calcareous nannofossil zonation, an overview with new evidence from Deep Sea Drilling 
+
+                                  Project Site 534, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 573-579.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel, 
+
+                                  Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A., 
+
+                                  Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H., 
+
+                                  1983, Jurassic ostracodes of Deep Sea Drilling Project Leg 76, Hole 534A, Blake-Bahama Basin, 
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 581-586.<BR>
+
+                                  <HR>
+
+                                  Roth, Peter H., 1983, Jurassic and Lower Cretaceous calcareous nannofossils in the western 
+
+                                  North Atlantic (Site 534); biostratigraphy, preservation, and some observations on biogeography 
+
+                                  and paleoceanography, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to 
+
+                                  Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling 
+
+                                  Project, v. 76, p. 587-621.<BR>
+
+                                  <HR>
+
+                                  Habib, Daniel, and Drugg, Warren S., 1983, Dinoflagellate age of Middle Jurassic-Early 
+
+                                  Cretaceous sediments in the Blake-Bahama Basin, in Orlofsky, Susan, ed., Initial reports of the 
+
+                                  Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar 
+
+                                  Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: 
+
+                                  Initial Reports of the Deep Sea Drilling Project, v. 76, p. 623-638.<BR>
+
+                                  <HR>
+
+                                  Renz, Otto, 1983, Early Cretaceous Cephalopoda from the Blake-Bahama Basin (Deep Sea Drilling 
+
+                                  Project Leg 76, Hole 534A) and their correlation in the Atlantic and southwestern Tethys, 
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 639-644.<BR>
+
+                                  <HR>
+
+                                  Butterlin, Jacques, and Moullade, Michel, 1983, Redeposited and/or reworked larger benthic 
+
+                                  foraminifera from Miocene debris flows, Blake-Bahama Basin flows, Blake-Bahama Basin 
+
+                                  (western North Atlantic), Deep Sea Drilling Project legs 44 (Site 391) and 76 (Site 534),
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 645-650.<BR>
+
+                                  <HR>
+
+                                  Shipley, Thomas H,. 1983, Physical properties, synthetic seismograms, and seismic reflections; 
+
+                                  correlations at Deep Sea Drilling Project Site 534, Blake-Bahama Basin, in Orlofsky, Susan, ed., 
+
+                                  Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling 
+
+                                  vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: 
+
+                                  Initial Reports of the Deep Sea Drilling Project, v. 76, p. 653-666.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., Bates, L.G., Shipley, Thomas H., and Crosby, J.T., 1983, Seismic 
+
+                                  stratigraphy in the Blake-Bahama Basin and the origin of Horizon D, in Orlofsky, Susan, ed., 
+
+                                  Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling 
+
+                                  vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: 
+
+                                  Initial Reports of the Deep Sea Drilling Project, v. 76, p. 667-683.<BR>
+
+                                  <HR>
+
+                                  Ogg, James G., 1983, Magnetostratigraphy of Upper Jurassic and lowest Cretaceous sediments, 
+
+                                  Deep Sea Drilling Project Site 534, western North Atlantic, in Orlofsky, Susan, ed., Initial 
+
+                                  reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel 
+
+                                  Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: 
+
+                                  Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 685-697.<BR>
+
+                                  <HR>
+
+                                  Testarmata, Margaret M., and Gose, Wulf A., 1983, The susceptibility and time-
+
+                                  dependent magnetization of basalts from Deep Sea Drilling Project Hole 534A, Blake Plateau,
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 699-703.<BR>
+
+                                  <HR>
+
+                                  Steiner, Maureen B., 1983, Paleomagnetism of Middle Jurassic basalts, Deep Sea Drilling 
+
+                                  Project Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 705-711.<BR>
+
+                                  <HR>
+
+                                  Logothetis, John, 1983, Petrography, mineralogy, and geochemistry of basalts from Hole 534A, 
+
+                                  Leg 76,in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 713-717.<BR>
+
+                                  <HR>
+
+                                  Henderson, Jeremy, and Davis, Earl, 1983, An estimate of the heat flow in the western North 
+
+                                  Atlantic at Deep Sea Drilling Project Site 534, in Orlofsky, Susan, ed., Initial reports of the
+
+                                  Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger,
+
+                                  Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the
+
+                                  Deep Sea Drilling Project, v. 76, p. 719-724.<BR>
+
+                                  <HR>
+
+                                  Bliefnick, Deborah M., Robertson, Alastair H.F., and Sheridan, Robert E., 1983, Deposition and 
+
+                                  provenance of Miocene intraclastic chalks, Blake-Bahama Basin, western North Atlantic, 
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 727-748.<BR>
+
+                                  <HR>
+
+                                  van Buren, H. Mark, and Mullins, Henry T., 1983, Seismic stratigraphy and geological development 
+
+                                  of an open-ocean carbonate slope; the northern margin of Little Bahama Bank, in Orlofsky, Susan, 
+
+                                  ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the 
+
+                                  drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 
+
+                                  1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 749-762.<BR>
+
+                                  <HR>
+
+                                  Robertson, Alastair H.F., 1983, Latest Cretaceous and Eocene paleoenvironments in the 
+
+                                  Blake-Bahama Basin, western North Atlantic, in Orlofsky, Susan, ed., Initial reports of the 
+
+                                  Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar 
+
+                                  Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial 
+
+                                  Reports of the Deep Sea Drilling Project, v. 76, p. 763-780.<BR>
+
+                                  <HR>
+
+                                  Habib, Daniel, 1983, Sedimentation-rate-dependent distribution of organic matter in the North 
+
+                                  Atlantic Jurassic-Cretaceous, in Orlofsky, Susan, ed., Initial reports of the Deep Sea 
+
+                                  Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, 
+
+                                  Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the 
+
+                                  Deep Sea Drilling Project, v. 76, p. 781-794.<BR>
+
+                                  <HR>
+
+                                  Robertson, Alastair H.F., and Bliefnick, Deborah M., 1983, Sedimentology and origin of Lower 
+
+                                  Cretaceous pelagic carbonates and redeposited clastics, Blake-Bahama Formation, Deep Sea 
+
+                                  Drilling Project Site 534, western Equatorial Atlantic, in Orlofsky, Susan, ed., Initial reports 
+
+                                  of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar 
+
+                                  Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial 
+
+                                  Reports of the Deep Sea Drilling Project, v. 76, p. 795-828.<BR>
+
+                                  <HR>
+
+                                  Ogg, James G., Robertson, Alastair H.F., and Jansa, Lubomir F., 1983, Jurassic sedimentation 
+
+                                  history of Site 534 (western North Atlantic) and of the Atlantic-Tethys Seaway, in Orlofsky, 
+
+                                  Susan, ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises 
+
+                                  of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, 
+
+                                  October-December, 1980: Initial Reports of the Deep Sea Drilling Project, v. 76, p. 829-884<BR>
+
+                                  <HR>
+
+                                  Lemoine, Marcel, 1983, Rifting and early drifting; Mesozoic Central Atlantic and Ligurian Tethys,
+
+                                  in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project 
+
+                                  covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort 
+
+                                  Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project, 
+
+                                  v. 76, p. 885-895.<BR>
+
+                                  <HR>
+
+                                  Sheridan, Robert E., 1983, Phenomena of pulsation tectonics related to the breakup of the eastern 
+
+                                  North American continental margin, in Orlofsky, Susan, ed., Initial reports of the Deep Sea 
+
+                                  Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, 
+
+                                  Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea 
+
+                                  Drilling Project, v. 76, p. 897-909.<BR>
+
+                                  <HR>
+
+                                  Gradstein, Felix M., and Sheridan, Robert E., 1983, On the Jurassic Atlantic Ocean and a synthesis 
+
+                                  of results of Deep Sea Drilling Project Leg 76, in Orlofsky, Susan, ed., Initial reports of the 
+
+                                  Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, 
+
+                                  Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the 
+
+                                  Deep Sea Drilling Project, v. 76, p. 913-943.<BR>
+
+                                  <HR>
+
+                                  Kvenvolden, K.A., and Barnard, L.A., and Cameron, D.H., 1981, Recovery by pressure-core 
+
+                                  barrel of natural gas hydrates from the Blake Outer Ridge, in American Geophysical Union 
+
+                                  1981 spring meeting: American Geophysical Union Eos, Transactions, v. 62, no. 17, p. 303.<BR>
+
+                                  <HR>
+
+                                  Core Data from the Deep Sea Drilling Project, Leg 76:
+
+                                  <A HREF="http://www.ngdc.noaa.gov/mgg/geology/dsdp/data/76/leg76.htm">http://www.ngdc.noaa.gov/mgg/geology/dsdp/data/76/leg76.htm</A>
+
+
+                                  Similar information is available for thousands
+                                  of other USGS/CMG-related Activities.
+
+                                  If known, available are Activity-specific
+                                  navigation, gravity, magnetics, bathymetry,
+                                  seismic, and sampling data; track maps; and
+                                  equipment information; as well as summary
+                                  overviews, crew lists, and information
+                                  about analog materials.  
+
+                                  If available, access to physical samples is
+                                  described in the "WR CMG Sample Distribution
+                                  Policy" at:
+                                  http://walrus.wr.usgs.gov/infobank/programs/html/main/sample-dist-policy.html
+
+                                  Primary access to the USGS/CMG Information
+                                  Bank's digital data, analog data, and
+                                  metadata is provided through...
+                                  http://walrus.wr.usgs.gov/infobank/
+
+                                  This page accomodates a variety of search
+                                  approaches (e.g., by platform, by region,
+                                  by scientist, by equipment type, etc.).
+
+    Time_Period_of_Content:
+        Time_Period_Information:
+            Range_of_Dates/Times:
+                Beginning_Date:      19801000
+                Ending_Date:         19801200
+
+        Currentness_Reference:    ground condition
+
+    Status:
+        Progress:                            Complete
+        Maintenance_and_Update_Frequency:    As needed
+
+    Spatial_Domain:
+        Bounding_Coordinates:
+            West_Bounding_Coordinate:      -87.75000
+            East_Bounding_Coordinate:      -78.25000
+            North_Bounding_Coordinate:      30.75000
+            South_Bounding_Coordinate:      23.25000
+
+    Keywords:
+        Theme:
+            Theme_Keyword_Thesaurus:      ISO 19115 Topic Category
+            Theme_Keyword:                geoscientificinformation
+            Theme_Keyword:                oceans
+        Theme:
+            Theme_Keyword_Thesaurus:      USGS CMG InfoBank
+            Theme_Keyword:                Marine Geology
+
+        Place:
+            Place_Keyword_Thesaurus:      USGS CMG InfoBank
+            Place_Keyword:                East Coast
+            Place_Keyword:                FL
+            Place_Keyword:                Florida
+            Place_Keyword:                Gulf Coast
+            Place_Keyword:                Gulf of Mexico
+            Place_Keyword:                Latin America
+            Place_Keyword:                Norfolk, Virginia to Fort Lauderdale, Florida
+            Place_Keyword:                North Atlantic Ocean
+            Place_Keyword:                Northern Atlantic Ocean
+            Place_Keyword:                USA
+
+
+    Access_Constraints:    Physical materials are under controlled on-site access.
+
+                           If available, access to physical samples is described 
+                           in the "WR CMG Sample Distribution Policy" at:
+                           http://walrus.wr.usgs.gov/infobank/programs/html/main/sample-dist-policy.html
+
+    Use_Constraints:       Please recognize the U.S. Geological Survey (USGS) as 
+                           the source of this information.
+
+                           Physical materials are under controlled on-site access.
+
+                           Some USGS information accessed through this means 
+                           may be preliminary in nature and presented without 
+                           the approval of the Director of the USGS.  This 
+                           information is provided with the understanding 
+                           that it is not guaranteed to be correct or complete 
+                           and conclusions drawn from such information are 
+                           the responsibility of the user.
+
+                           This information is not intended for navigational 
+                           purposes.
+
+                           Any use of trade, firm, or product names is for 
+                           descriptive purposes only and does not imply 
+                           endorsement by the U.S. Government.
+
+    Point_of_Contact:
+        Contact_Information:
+            Contact_Organization_Primary:
+                Contact_Organization:           U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+                Contact_Person:                 Clint Steele
+
+            Contact_Position:                   Data Acquisition, Processing, and Storage (DAPS) Group Leader
+
+            Contact_Address:
+                Address_Type:                   mailing and physical address
+                Address:                        USGS, MailStop 999, 345 Middlefield Road
+                City:                           Menlo Park
+                State_or_Province:              CA
+                Postal_Code:                    94025-3561
+                Country:                        USA
+
+            Contact_Voice_Telephone:            (650) 329-5055
+            Contact_Facsimile_Telephone:        (650) 329-5190
+
+            Contact_Electronic_Mail_Address:    csteele@usgs.gov
+
+
+    Browse_Graphic:
+        Browse_Graphic_File_Name:           http://walrus.wr.usgs.gov/infobank/g/g7680fl/html/g-76-80-fl.nav.gif
+        Browse_Graphic_File_Description:    Trackline map of G-76-80-FL
+        Browse_Graphic_File_Type:           GIF
+
+
+    Native_Data_Set_Environment: Digital, ASCII
+    Cross_Reference:
+        Citation_Information:
+            Originator:              U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+            Publication_Date:        Unknown
+            Title:                   USGS/CMG Information Bank
+            Publication_Information:
+                Publisher:   U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+            Other_Citation_Details:  Updated daily
+            Online_Linkage:          http://walrus.wr.usgs.gov/infobank/
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah Marie,
+                                    Habib, Dan, Jenden, Peter D., Kagami, Hideo, Keenan, Everly M., Kostecki, John,
+                                    Kvenvolden, Keith A., Moullade, Michel, Ogg, James, Robertson, Alastair H.F., Roth, Peter H.,
+                                    Shipley, Thomas H., Wells, Larry, Bowdler, Jay L., Cotillon, Pierre H., Halley, Robert B.,
+                                    Kinoshita, Hajimu, Patton, James W., Pisciotto, Kenneth A., Premoli-Silva, Isabella,
+                                    Testarmata, Margaret M., Tyson, Richard V., and Watkins, David K., 1982, Early history of the
+                                    Atlantic Ocean and gas hydrates on the Blake Outer Ridge; results of the Deep Sea Drilling
+                                    Project Leg 76: Geological Society of America Bulletin, v. 93, no. 9, p. 876-885.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., Shipley, Thomas H.,
+                                    Bowdler, Jay L., Cotillon, Pierre H., Halley, Robert B., Kinoshita, Hajimu, Patton, James W.,
+                                    Pisciotto, Kenneth A., Premoli-Silva, Isabella, Testarmata, Margaret M., and Watkins, David K.,
+                                    1983, Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the
+                                    drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December,
+                                    1980, in Orlofsky, Susan, ed.: Initial Reports of the Deep Sea Drilling Project, v. 76, 947 p.
+            Other_Citation_Details: Gradstein, Felix M., and Sheridan, Robert E., 1983, Introduction, in Orlofsky, Susan, ed., Initial
+                                    reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel
+                                    Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial
+                                    Reports of the Deep Sea Drilling Project, v. 76, p. 5-18.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Explanatory notes, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 19-33
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Site 533; Blake Outer Ridge, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 35-140.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Site 534; Blake-Bahama Basin, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 141-340.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Magnetic, bathymetric, seismic reflection, and positioning data collected underway on Glomar
+                                    Challenger, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 341-349.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Gas hydrates of the Blake Outer Ridge, Site 533, Deep Sea Drilling Project Leg 76, in Orlofsky,
+                                    Susan, ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of
+                                    the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-
+                                    December, 1980: Initial Reports of the Deep Sea Drilling Project, v. 76, p. 353-365.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Pressure core barrel; application to the study of gas hydrates, Deep Sea Drilling Project
+                                    Site 533, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 367-375.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Molecular and isotopic compositions of hydrocarbons at Site 533, Deep Sea Drilling Project Leg 76,
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 377-389.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Anoxic diagenesis and methane generation in sediments of the Blake Outer Ridge, Deep Sea
+                                    Drilling Project Site 533, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling
+                                    Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia
+                                    to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 391-402.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Concentrations and carbon isotopic compositions of CH (sub 4) and CO (sub 2) in gas from
+                                    sediments of the Blake Outer Ridge, Deep Sea Drilling Project Leg 76, in Orlofsky, Susan, ed.,
+                                    Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling
+                                    vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980:
+                                    Initial Reports of the Deep Sea Drilling Project, v. 76, p. 403-411.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Mineralogy and geochemistry of carbonate diagenesis of the Pliocene and Pleistocene hemipelagic
+                                    mud on the Blake Outer Ridge, Suite 533, Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep
+                                    Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk,
+                                    Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling
+                                    Project, v. 76, p. 411-427.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Geochemistry and mineralogy of selected carbonaceous claystones in the Lower Cretaceous
+                                    from the Blake-Bahama Basin, North Atlantic, in Orlofsky, Susan, ed., Initial reports of the
+                                    Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger,
+                                    Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep
+                                    Sea Drilling Project, v. 76, p. 429-436.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Clay mineralogical and inorganic geochemical stratigraphy of Blake-Bahama Basin since the Callovian,
+                                    Site 534, Deep Sea Drilling Project Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea
+                                    Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk,
+                                    Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling
+                                    Project, v. 76, p. 437-451.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Chemical and isotopic composition of interstitial water from Deep Sea Drilling Project sites
+                                    533 and 534, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 453-461.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Organic geochemical character of some Deep Sea Drilling Project cores from legs 76 and 44,
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 463-468.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Organic facies of Cretaceous and Jurassic sediments from Deep Sea Drilling Project Site 534
+                                    in the Blake-Bahama Basin, western North Atlantic, in Orlofsky, Susan, ed., Initial reports of the
+                                    Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger,
+                                    Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep
+                                    Sea Drilling Project, v. 76, p. 469-480.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Organic geochemistry in the Mesozoic and Cenozoic formations on Site 534, Leg 76, Blake-Bahama
+                                    Basin, and comparison with Site 391, Leg 44, in Orlofsky, Susan, ed., Initial reports of the Deep
+                                    Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger,
+                                    Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep
+                                    Sea Drilling Project, v. 76, p. 481-493.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Benthic foraminifers of Site 533, Leg 76 of the Deep Sea Drilling Project; faunal variations
+                                    during the Pliocene and Pleistocene on the Blake Outer Ridge (western North Atlantic), in Orlofsky,
+                                    Susan, ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of
+                                    the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida,
+                                    October-December, 1980: Initial Reports of the Deep Sea Drilling Project, v. 76, p. 497-509.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Upper Neogene and Quaternary planktonic foraminifers from the Blake Outer Ridge and Blake-Bahama
+                                    Basin (western North Atlantic), Deep Sea Drilling Project Leg 76, sites 533 and 534, in Orlofsky,
+                                    Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 511-535.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Paleoecology and stratigraphy of Jurassic abyssal foraminifera in the Blake-Bahama Basin,
+                                    Deep Sea Drilling Project Site, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling
+                                    Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk,
+                                    Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea
+                                    Drilling Project, v. 76, p. 537-559.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Calpionellids and the Jurassic/Cretaceous boundary at Deep Sea Drilling Project Site 534,
+                                    western North Atlantic Ocean, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling
+                                    Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk,
+                                    Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea
+                                    Drilling Project, v. 76, p. 561-567.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Summary of Middle Jurassic-Early Cretaceous radiolarian biostratigraphy of Site 534
+                                    (Blake-Bahama Basin) and correlation to Tethyan sections, in Orlofsky, Susan, ed., Initial reports
+                                    of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar
+                                    Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial
+                                    Reports of the Deep Sea Drilling Project, v. 76, p. 569-571.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Jurassic calcareous nannofossil zonation, an overview with new evidence from Deep Sea Drilling
+                                    Project Site 534, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 573-579.
+            Other_Citation_Details: Sheridan, Robert E., Gradstein, Felix M., Barnard, Leo A., Bliefnick, Deborah M., Habib, Daniel,
+                                    Jenden, Peter D., Kagami, Hideo, Keenan, Everly, Kostecki, John, Kvenvolden, Keith A.,
+                                    Moullade, Michel, Ogg, James G., Robertson, Alastair H.F., Roth, Peter H., and Shipley, Thomas H.,
+                                    1983, Jurassic ostracodes of Deep Sea Drilling Project Leg 76, Hole 534A, Blake-Bahama Basin,
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 581-586.
+            Other_Citation_Details: Roth, Peter H., 1983, Jurassic and Lower Cretaceous calcareous nannofossils in the western
+                                    North Atlantic (Site 534); biostratigraphy, preservation, and some observations on biogeography
+                                    and paleoceanography, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to
+                                    Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling
+                                    Project, v. 76, p. 587-621.
+            Other_Citation_Details: Habib, Daniel, and Drugg, Warren S., 1983, Dinoflagellate age of Middle Jurassic-Early
+                                    Cretaceous sediments in the Blake-Bahama Basin, in Orlofsky, Susan, ed., Initial reports of the
+                                    Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar
+                                    Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980:
+                                    Initial Reports of the Deep Sea Drilling Project, v. 76, p. 623-638.
+            Other_Citation_Details: Renz, Otto, 1983, Early Cretaceous Cephalopoda from the Blake-Bahama Basin (Deep Sea Drilling
+                                    Project Leg 76, Hole 534A) and their correlation in the Atlantic and southwestern Tethys,
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 639-644.
+            Other_Citation_Details: Butterlin, Jacques, and Moullade, Michel, 1983, Redeposited and/or reworked larger benthic
+                                    foraminifera from Miocene debris flows, Blake-Bahama Basin flows, Blake-Bahama Basin
+                                    (western North Atlantic), Deep Sea Drilling Project legs 44 (Site 391) and 76 (Site 534),
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 645-650.
+            Other_Citation_Details: Shipley, Thomas H,. 1983, Physical properties, synthetic seismograms, and seismic reflections;
+                                    correlations at Deep Sea Drilling Project Site 534, Blake-Bahama Basin, in Orlofsky, Susan, ed.,
+                                    Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling
+                                    vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980:
+                                    Initial Reports of the Deep Sea Drilling Project, v. 76, p. 653-666.
+            Other_Citation_Details: Sheridan, Robert E., Bates, L.G., Shipley, Thomas H., and Crosby, J.T., 1983, Seismic
+                                    stratigraphy in the Blake-Bahama Basin and the origin of Horizon D, in Orlofsky, Susan, ed.,
+                                    Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling
+                                    vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980:
+                                    Initial Reports of the Deep Sea Drilling Project, v. 76, p. 667-683.
+            Other_Citation_Details: Ogg, James G., 1983, Magnetostratigraphy of Upper Jurassic and lowest Cretaceous sediments,
+                                    Deep Sea Drilling Project Site 534, western North Atlantic, in Orlofsky, Susan, ed., Initial
+                                    reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel
+                                    Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980:
+                                    Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 685-697.
+            Other_Citation_Details: Testarmata, Margaret M., and Gose, Wulf A., 1983, The susceptibility and time-
+                                    dependent magnetization of basalts from Deep Sea Drilling Project Hole 534A, Blake Plateau,
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 699-703.
+            Other_Citation_Details: Steiner, Maureen B., 1983, Paleomagnetism of Middle Jurassic basalts, Deep Sea Drilling
+                                    Project Leg 76, in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 705-711.
+            Other_Citation_Details: Logothetis, John, 1983, Petrography, mineralogy, and geochemistry of basalts from Hole 534A,
+                                    Leg 76,in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 713-717.
+            Other_Citation_Details: Henderson, Jeremy, and Davis, Earl, 1983, An estimate of the heat flow in the western North
+                                    Atlantic at Deep Sea Drilling Project Site 534, in Orlofsky, Susan, ed., Initial reports of the
+                                    Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger,
+                                    Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the
+                                    Deep Sea Drilling Project, v. 76, p. 719-724.
+            Other_Citation_Details: Bliefnick, Deborah M., Robertson, Alastair H.F., and Sheridan, Robert E., 1983, Deposition and
+                                    provenance of Miocene intraclastic chalks, Blake-Bahama Basin, western North Atlantic,
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 727-748.
+            Other_Citation_Details: van Buren, H. Mark, and Mullins, Henry T., 1983, Seismic stratigraphy and geological development
+                                    of an open-ocean carbonate slope; the northern margin of Little Bahama Bank, in Orlofsky, Susan,
+                                    ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises of the
+                                    drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December,
+                                    1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 749-762.
+            Other_Citation_Details: Robertson, Alastair H.F., 1983, Latest Cretaceous and Eocene paleoenvironments in the
+                                    Blake-Bahama Basin, western North Atlantic, in Orlofsky, Susan, ed., Initial reports of the
+                                    Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar
+                                    Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial
+                                    Reports of the Deep Sea Drilling Project, v. 76, p. 763-780.
+            Other_Citation_Details: Habib, Daniel, 1983, Sedimentation-rate-dependent distribution of organic matter in the North
+                                    Atlantic Jurassic-Cretaceous, in Orlofsky, Susan, ed., Initial reports of the Deep Sea
+                                    Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger,
+                                    Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the
+                                    Deep Sea Drilling Project, v. 76, p. 781-794.
+            Other_Citation_Details: Robertson, Alastair H.F., and Bliefnick, Deborah M., 1983, Sedimentology and origin of Lower
+                                    Cretaceous pelagic carbonates and redeposited clastics, Blake-Bahama Formation, Deep Sea
+                                    Drilling Project Site 534, western Equatorial Atlantic, in Orlofsky, Susan, ed., Initial reports
+                                    of the Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar
+                                    Challenger, Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial
+                                    Reports of the Deep Sea Drilling Project, v. 76, p. 795-828.
+            Other_Citation_Details: Ogg, James G., Robertson, Alastair H.F., and Jansa, Lubomir F., 1983, Jurassic sedimentation
+                                    history of Site 534 (western North Atlantic) and of the Atlantic-Tethys Seaway, in Orlofsky,
+                                    Susan, ed., Initial reports of the Deep Sea Drilling Project covering Leg 76 of the cruises
+                                    of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort Lauderdale, Florida,
+                                    October-December, 1980: Initial Reports of the Deep Sea Drilling Project, v. 76, p. 829-884
+            Other_Citation_Details: Lemoine, Marcel, 1983, Rifting and early drifting; Mesozoic Central Atlantic and Ligurian Tethys,
+                                    in Orlofsky, Susan, ed., Initial reports of the Deep Sea Drilling Project
+                                    covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk, Virginia to Fort
+                                    Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea Drilling Project,
+                                    v. 76, p. 885-895.
+            Other_Citation_Details: Sheridan, Robert E., 1983, Phenomena of pulsation tectonics related to the breakup of the eastern
+                                    North American continental margin, in Orlofsky, Susan, ed., Initial reports of the Deep Sea
+                                    Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger, Norfolk,
+                                    Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the Deep Sea
+                                    Drilling Project, v. 76, p. 897-909.
+            Other_Citation_Details: Gradstein, Felix M., and Sheridan, Robert E., 1983, On the Jurassic Atlantic Ocean and a synthesis
+                                    of results of Deep Sea Drilling Project Leg 76, in Orlofsky, Susan, ed., Initial reports of the
+                                    Deep Sea Drilling Project covering Leg 76 of the cruises of the drilling vessel Glomar Challenger,
+                                    Norfolk, Virginia to Fort Lauderdale, Florida, October-December, 1980: Initial Reports of the
+                                    Deep Sea Drilling Project, v. 76, p. 913-943.
+            Other_Citation_Details: Kvenvolden, K.A., and Barnard, L.A., and Cameron, D.H., 1981, Recovery by pressure-core
+                                    barrel of natural gas hydrates from the Blake Outer Ridge, in American Geophysical Union
+                                    1981 spring meeting: American Geophysical Union Eos, Transactions, v. 62, no. 17, p. 303.
+            Other_Citation_Details: Core Data from the Deep Sea Drilling Project, Leg 76:
+                                    <A HREF="http://www.ngdc.noaa.gov/mgg/geology/dsdp/data/76/leg76.htm">http://www.ngdc.noaa.gov/mgg/geology/dsdp/data/76/leg76.htm</A>
+ 
+
+
+Data_Quality_Information:
+
+    Attribute_Accuracy:
+        Attribute_Accuracy_Report:    Identified as best available version.
+
+    Logical_Consistency_Report:    Unspecified
+
+    Completeness_Report:           Start and end date/times of data
+                                    >Navigation Data (g-76-80-fl.050 [SINS])
+                                      >YYYYMMDDHHMMSST    YYYYMMDDHHMMSST
+                                      >198001010101000    198001050101000
+                                      >YYYYMMDDHHMMSST    YYYYMMDDHHMMSST
+
+    Positional_Accuracy:
+        Horizontal_Positional_Accuracy:
+            Horizontal_Positional_Accuracy_Report:    Unspecified
+
+        Vertical_Positional_Accuracy:
+            Vertical_Positional_Accuracy_Report:      Unspecified
+
+    Lineage:
+
+        Process_Step:
+            Process_Description:    Navigation Data
+                                      Unknown
+            Process_Date:           20060306
+
+            Process_Contact:
+                Contact_Information:
+                    Contact_Organization_Primary:
+                        Contact_Organization:           U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+                        Contact_Person:                 Clint Steele
+
+                    Contact_Position:                   Data Acquisition, Processing, and Storage (DAPS) Group Leader
+
+                    Contact_Address:
+                        Address_Type:                   mailing and physical address
+                        Address:                        USGS, MailStop 999, 345 Middlefield Road
+                        City:                           Menlo Park
+                        State_or_Province:              CA
+                        Postal_Code:                    94025-3561
+                        Country:                        USA
+
+                    Contact_Voice_Telephone:            (650) 329-5055
+                    Contact_Facsimile_Telephone:        (650) 329-5190
+
+                    Contact_Electronic_Mail_Address:    csteele@usgs.gov
+
+
+Spatial_Data_Organization_Information:
+
+    Indirect_Spatial_Reference:     Norfolk, Virginia to Fort Lauderdale, Florida
+    Direct_Spatial_Reference_Method:      Point
+
+    Point_and_Vector_Object_Information:
+        SDTS_Terms_Description:
+            SDTS_Point_and_Vector_Object_Type:    Point
+
+
+Spatial_Reference_Information:
+
+    Horizontal_Coordinate_System_Definition:
+        Geographic:
+            Latitude_Resolution:            0.00001
+            Longitude_Resolution:           0.00001
+            Geographic_Coordinate_Units:    Decimal degrees
+
+        Geodetic_Model:
+            Horizontal_Datum_Name:              North American Datum of 1927
+            Ellipsoid_Name:                     Clarke 1866
+            Semi-major_Axis:                    6378206.4
+            Denominator_of_Flattening_Ratio:    294.98
+
+    Vertical_Coordinate_System_Definition:
+        Depth_System_Definition:
+            Depth_Datum_Name:         Local surface
+            Depth_Resolution:         0.1
+            Depth_Distance_Units:     meters
+            Depth_Encoding_Method:    Attribute values
+
+
+Entity_and_Attribute_Information:
+
+    Overview_Description:
+        Entity_and_Attribute_Overview:            Navigation with Time Stamp
+        Entity_and_Attribute_Detail_Citation:     Integrated navigation (SINS) data
+                                                    >Mnemonic:       (Year, Day, Hour, Min, Sec, Tenths, Latitude, Longitude)
+                                                    >FORTRAN format: (i4.4, i3.3, 3i2.2, i1.1, t16, f9.5, t26, f10.5)
+                                                    >C format:       (%4.4i%3.3i3%2.2i%1.1i %9.5f %10.5f\\n)
+                                                    >Naming:         .050
+
+
+Distribution_Information:
+
+    Distributor:
+        Contact_Information:
+            Contact_Organization_Primary:
+                Contact_Organization:           U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+                Contact_Person:                 Clint Steele
+
+            Contact_Position:                   Data Acquisition, Processing, and Storage (DAPS) Group Leader
+
+            Contact_Address:
+                Address_Type:                   mailing and physical address
+                Address:                        USGS, MailStop 999, 345 Middlefield Road
+                City:                           Menlo Park
+                State_or_Province:              CA
+                Postal_Code:                    94025-3561
+                Country:                        USA
+
+            Contact_Voice_Telephone:            (650) 329-5055
+            Contact_Facsimile_Telephone:        (650) 329-5190
+
+            Contact_Electronic_Mail_Address:    csteele@usgs.gov
+
+    Resource_Description:    Downloadable Data G-76-80-FL data set
+
+    Distribution_Liability:  Please recognize the U.S. Geological Survey (USGS) as 
+                             the source of this information.
+
+                             Physical materials are under controlled on-site access.
+
+                             Some USGS information accessed through this means 
+                             may be preliminary in nature and presented without 
+                             the approval of the Director of the USGS.  This 
+                             information is provided with the understanding 
+                             that it is not guaranteed to be correct or complete 
+                             and conclusions drawn from such information are 
+                             the responsibility of the user.
+
+                             This information is not intended for navigational 
+                             purposes.
+
+                             Any use of trade, firm, or product names is for 
+                             descriptive purposes only and does not imply 
+                             endorsement by the U.S. Government.
+
+    Standard_Order_Process:
+        Digital_Form:
+            Digital_Transfer_Information:
+                Format_Name:                     ASCII
+                File_Decompression_Technique:    No compression applied
+                Transfer_Size:                        0.1
+
+            Digital_Transfer_Option:
+                Online_Option:
+                    Computer_Contact_Information:
+                        Network_Address:
+                            Network_Resource_Name:    http://walrus.wr.usgs.gov/infobank/g/g7680fl/html/g-76-80-fl.nav.html
+
+        Fees:    None
+
+
+Metadata_Reference_Information:
+
+    Metadata_Date:       20090107
+
+    Metadata_Contact:
+        Contact_Information:
+            Contact_Organization_Primary:
+                Contact_Organization:           U.S. Geological Survey (USGS), Coastal and Marine Geology (CMG)
+                Contact_Person:                 Clint Steele
+
+            Contact_Position:                   Data Acquisition, Processing, and Storage (DAPS) Group Leader
+
+            Contact_Address:
+                Address_Type:                   mailing and physical address
+                Address:                        USGS, MailStop 999, 345 Middlefield Road
+                City:                           Menlo Park
+                State_or_Province:              CA
+                Postal_Code:                    94025-3561
+                Country:                        USA
+
+            Contact_Voice_Telephone:            (650) 329-5055
+            Contact_Facsimile_Telephone:        (650) 329-5190
+
+            Contact_Electronic_Mail_Address:    csteele@usgs.gov
+
+    Metadata_Standard_Name:       FGDC Content Standards for Digital Geospatial Metadata
+
+    Metadata_Standard_Version:    Version 1.0 (19940608)
+
+    Metadata_Time_Convention:     universal time
+    Metadata_Access_Constraints:      none
+    Metadata_Use_Constraints:      none

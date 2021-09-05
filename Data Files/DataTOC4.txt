@@ -1,0 +1,327 @@
+********************************************************    
+                         NOTICE
+********************************************************
+
+This document was converted from
+WordPerfect to ASCII Text format.
+
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+will not show up in this text version.
+
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+
+Features of the original document layout such as
+columns, tables, line and letter spacing, pagination, and margins
+will not be preserved in the text version.
+
+If you need the complete document, download the
+WordPerfect version or Adobe Acrobat version, if available.
+
+*****************************************************************
+                            Before the
+                Federal Communications Commission
+                      Washington, D.C. 20554
+
+In the Matter of                )
+                                )
+Petition for Agreement with Designation of)       CC Docket No. 96-45
+Rural Company Eligible Telecommunications)
+Carrier Service Areas and for Approval of the)
+Use of Disaggregation of Study Areas for the)
+Purpose of Distributing Portable Federal)
+Universal Service Support       )
+                                )
+Washington Utilities and Transportation)
+Commission; Asotin Telephone Co.;)
+Century Tel of Cowiche; Ellensburg Tele.)
+Co.; Century Tel of Washington; Hat)
+Island Telephone Co.; Hood Canal Telephone)
+Co., Inc.; Inland Telephone Co.: Kalama)
+Telephone Co.; Lewis River Telephone)
+Co.; Mashell Telecom, Inc.; McDaniel )
+Telephone Co.; Pend Oreille Telephone Co.;)
+Pioneer Telephone Co.; St. John,)
+Co-operative Telephone and Telegraph Co.;)
+Tenino Telephone Co.; The Toledo Telephone)
+Co., Inc.; United Telephone Co. of the)
+Northwest; Western Wahkiakum County)
+Telephone Co.; Whidbey Telephone Co.; and)
+Yelm Telephone Co.              )
+
+
+                   MEMORANDUM OPINION AND ORDER
+
+
+Adopted:  September 9, 1999                  Released:  September 9, 1999
+
+
+By the Common Carrier Bureau:
+
+                         I.  INTRODUCTION
+
+     1.   The Washington Utilities and Transportation Commission (Washington
+Commission) and twenty rural incumbent local exchange carriers (rural LEC Petitioners) filed a
+petition that requests the Commission's agreement with the Washington Commission's designation
+of the individual exchanges of fifteen rural LECs to be their service areas.  The Washington
+Commission's proposal also requests a waiver for Washington rural carriers from the method of
+calculating universal service funds prescribed in section 54.307 of the Commission's rules. 
+Specifically, the petition proposes to disaggregate federal high cost support currently given at the
+study area level, by using the Benchmark Cost Proxy Model (BCPM) to estimate the cost of
+providing service in density zones within each exchange served by the rural carriers.  The rural
+LEC petitioners' support of the request for service area designation is conditioned on this
+Commission's approval of the request for disaggregated study area support.  For the reasons
+discussed herein, we agree with the Washington Commission's proposed service area designation,
+and grant the requested waiver to permit the disaggregation of federal high cost support currently
+given at the study area level.
+
+                         II.  BACKGROUND
+
+     2.   For areas served by a rural telephone company, section 214(e)(5) of the
+Communications Act, as amended (the Act), provides that the company's "service area" will be
+its study area "unless and until the Commission and the States, after taking into account the
+recommendations of a Federal-State Joint Board instituted under section 410(c) of the Act,
+establish a different definition of service area for such company."  Section 54.207 of the
+Commission's rules, and the Universal Service Order, set forth the Commission's procedures
+for consideration of petitions filed by state commissions seeking to designate rural service areas
+for rural telephone companies that are different from such companies' study areas.  Section 54.207
+provides that the Commission may initiate a proceeding to consider such a petition within ninety
+days of the release date of a Public Notice of the petition or, in the alternative, may act on the
+petition without initiating a proceeding.  Pursuant to this rule, the Commission issued a Public
+Notice on August 24, 1998 to elicit comment from interested parties.  On November 24, 1998,
+the Commission initiated a proceeding to continue its consideration of the petition. 
+
+     3.   Petitioners assert that the Washington Commission has taken into account the
+recommendations of the Federal-State Joint Board, as required by the Act and the Commission's
+rules, in proposing exchange level service areas for the rural LEC petitioners.  Petitioners also
+contend that establishment of service areas at the exchange level will promote the procompetitive
+policies and goals of the Commission and the Washington Commission.
+
+     4.   Petitioners also seek a waiver of the existing method of calculating the amount of
+universal service support that a competitive eligible telecommunications carrier should receive
+pursuant to section 54.307 of the Commission's rules, and for approval of a proposed alternative
+methodology for determining the amount of universal service support, developed through a series
+of workshops held by the Washington Commission.  Under the methodology proposed by
+petitioners, the individual exchanges of the rural LECs would first be designated as their service
+areas.  Then the federal high cost support that is currently provided to the rural LEC petitioners
+on a study area basis would be disaggregated and redistributed among the smaller geographic
+service areas.  Under this methodology, the amount of universal service support available to the
+proposed service areas in the aggregate would be the total amount of support currently provided
+to the existing study area in which they are located.  The methodology proposed to disaggregate
+and distribute this total support amount among the proposed service areas is an adaptation of the
+BCPM.  This methodology would be used to estimate the relative cost of providing service in a
+lower-cost and a higher-cost density zone within each exchange.  This cost data would then be
+used to set the support amount for carriers providing service within each of these density zones. 
+Because the model would be used only to disaggregate and redistribute the federal high cost
+support currently provided for each of the rural LEC petitioner's existing study areas, the proposal
+would not increase or change the aggregate amount of federal support provided for those study
+areas.  Under petitioners' proposal, high cost support for each of the current study areas would
+continue to be recalculated each year based on the average loop cost in the study area.  Thus, the
+amount of support calculated for each study area before disaggregation would still be limited by
+the mechanisms that limit the overall growth in the fund.  Petitioners assert that disaggregation
+under this methodology is relatively easy to administer and track, and the necessary information
+can be supplied to or developed by the Universal Service Administrative Company (USAC).
+  
+     5.   Several commenters express support for the Washington Commission's designation
+of the individual exchanges of the rural LECs as their service areas.  A number of commenters
+also urge us to grant the petition in its entirety because the proposed geographical disaggregation
+is intertwined with the Washington Commission's proposed designation of individual exchanges as
+service areas, and approving the service area designation alone would create the potential for
+"cream skimming."  If the exchanges, rather than the current study areas, are designated as the
+service areas, and universal service support is not geographically disaggregated, a competitive
+LEC could receive a windfall by entering a relatively low cost exchange and receiving support
+based on the higher average cost within the study area.  Petitioners, and commenters that
+support the petition, claim that the proposed geographical disaggregation would avoid such
+problems.  NECA agrees with other commenters that the Commission should grant the petition,
+but cautions the Commission not to "establish the Washington proposal as a de facto standard for
+disaggregating interstate universal service support in other areas."  NECA explains that whereas
+the approach espoused by the Washington Commission may prove workable on an interim basis,
+subsequent developments in forward looking cost methods for rural companies may prove that
+other methods work better.  
+
+     6.   USTA and GTE oppose the petition.  USTA expresses concern about the
+precedential effects of our decision in this proceeding.  It contends that the issues raised by the
+petition have the potential of altering established universal service policies and policies that are
+being formulated in ongoing proceedings.  GTE declares that while it supports the petition's
+objective to better target federal universal service support, it cannot support the petition unless
+the petition is amended to include GTE Northwest's Contel Washington study area in the
+proposed change in service area definition for rural areas.  GTE also claims that the proposed
+methodology to disaggregate support to areas smaller than a wire center does not fully resolve the
+universal service issues in Washington state, even for rural areas, and proposes an alternative
+methodology.  GTE recommends that if the Commission allows a state to "experiment with
+modifications to its transitional universal service support for rural areas," then the Commission
+should set forth guidelines for "any such experimentation."  In reply, the Washington
+Commission states that, in light of GTE's subsequent certification of its Contel study area as rural,
+it will work with GTE regarding the inclusion of the Contel study area in petitioners' proposal.    
+  
+
+                         III.  DISCUSSION
+
+     7.   To begin, we recognize that the request for disaggregated study area support is
+inextricably intertwined with the request for agreement with the Washington Commission's
+proposed designation of the individual exchanges of the fifteen rural carriers as service areas.  We
+also recognize that petitioners' proposed methodology to disaggregate and redistribute the federal
+high cost support has not been tested, or even studied, outside the context of the Washington
+Commission's limited study.  We also note that much remains to be done in the development of
+the forward-looking economic cost model before being used to distribute universal service
+support to rural carriers.  The Rural Task Force is developing recommendations on this subject
+for the Universal Service Joint Board, which will be followed by the recommendations of that
+Joint Board.  Pending completion of these steps, and the Commission's decision on the high cost
+support mechanism for rural carriers, rural carriers will continue to receive support under the
+existing mechanism until, at least, the year 2001.  For the reasons described below, however, we
+agree with the proposed service areas and grant, on an interim basis until we adopt a new high
+cost support mechanism for all rural carriers, the proposed waiver of section 54.307 of the
+Commission's rules.  When the Commission adopts an order establishing a new support
+mechanism for rural carriers, that order will supersede this order, and rural carriers in Washington
+will receive high cost support based on the new mechanism.  
+
+     8.   Service Area Designation.  We find that our concurrence with rural LEC
+petitioners' request for designation of their individual exchanges as service areas is warranted in
+order to promote competition.  The Washington Commission is particularly concerned that rural
+areas, of which there are many in Washington, are not left behind in the move to greater
+competition.  Petitioners also state that designating eligible telecommunications carriers at the
+exchange level, rather than at the study area level, will promote competitive entry by permitting
+new entrants to provide service in relatively small areas.  The proposed methodology will more
+closely associate support with the cost of providing service than do the current rules.  This, in
+turn, should encourage efficient entry in the higher-cost fringe areas as well as the lower-cost core
+areas within each exchange.  We conclude that this effort to facilitate local competition justifies
+our concurrence with the proposed service area designation.  
+
+     9.   We also conclude that the Washington Commission has addressed the concerns
+expressed by the Federal-State Joint Board on Universal Service, as required by the Act and the
+Commission's rules.  In the First Recommended Decision, the Joint Board listed three reasons
+for retaining, at least initially, the current study areas of rural telephone companies as their service
+areas.   First, the Joint Board suggested that retaining study areas would minimize potential
+"cream skimming," because competitors would be required, as a condition of eligibility, to provide
+service throughout the rural telephone company's study area.  The Commission expressed its
+agreement with this analysis in adopting the Joint Board's recommendations regarding the study
+areas of rural carriers.  Second, the Joint Board noted that the 1996 Act places rural telephone
+companies on a different footing from other local exchange companies, making allowances for
+considerations of administrative, technical and economical feasibility.  Finally, the Joint Board
+expressed concern that determining embedded costs on a basis other than study areas would
+impose an administrative burden on rural companies.  We conclude that petitioners have taken
+these concerns into account in crafting the proposed methodology for disaggregating and
+redistributing support currently distributed on a study area basis.  In particular, this methodology
+is designed to address opportunities for "cream skimming" by competitors.  Moreover, to the
+extent the Joint Board was concerned about the interests of rural companies, we find it significant
+that the rural LEC petitioners support the proposed service area designation, conditioned on
+approval of the proposal to disaggregate support.   
+         
+     10.  Proposal to Disaggregate and Redistribute Support.  As to petitioners' request for
+waiver of section 54.307, the Commission's rules generally may be waived for good cause
+shown.  But, as noted by the Court of Appeals for the D.C. Circuit, agency rules are presumed
+valid, and "an applicant for waiver faces a high hurdle even at the starting gate."  The
+Commission may exercise its general discretion to waive a rule where the particular facts make
+strict compliance inconsistent with the public interest.  In addition, the Commission may take
+into account considerations of hardship, equity, or more effective implementation of overall policy
+on an individual basis.  Waiver is, therefore, appropriate if special circumstances warrant a
+deviation from the general rule, and such deviation would better serve the public interest than
+strict adherence to the general rule.  
+
+     11.  We believe that special circumstances warrant the deviation from the existing
+section 54.307 of the Commission's rules.  The petition proposes an experiment for the
+distribution of universal service support to rural carriers serving high cost areas in the State of
+Washington.  As such, it will provide useful information in the pending Joint Board and
+Commission proceedings to determine how best to distribute universal service support to rural
+carriers serving high cost areas across the nation.  In addition, the proposal before us represents
+the consensus of a state and 20 of its rural carriers, and the Washington Commission has stated its
+willingness to take steps to include GTE's Contel exchanges, as well.
+
+     12.  We also find that petitioners have demonstrated that permitting them to deviate
+from section 54.307 of the Commission's rules by implementing their proposal will better serve
+the public interest than will strict adherence to the rules.  Without this waiver of section 54.307,
+the proposed designation of service areas at the exchange level could result in the potential harms
+that the Joint Board sought to avoid in recommending that rural telephone companies' study areas
+be retained as their service areas.  Specifically, if service areas were designated as the exchanges,
+rather than the study areas, and universal service support were not geographically disaggregated,
+a competitor could receive a windfall by providing service in a relatively low cost exchange and
+receiving support based on the average cost within the study area.  Petitioners' proposal to
+disaggregate support is designed to reduce such opportunities for cream skimming.
+
+     13.  We also conclude that the proposed methodology's use of the BCPM is not a basis
+for finding that deviation from the current rule would not better serve the public interest. 
+Although the Commission has adopted the synthesis model, rather than the BCPM, for use in
+determining high cost support for non-rural carriers, the synthesis model has not yet been
+finalized.  As noted above, the Joint Board will be making recommendations, after receiving input
+from the Rural Task Force, concerning the nature of the high cost support mechanism that should
+be used for rural carriers.  Petitioners' proposed methodology will be superseded by the
+Commission's adoption of a new support mechanism for rural carriers. 
+
+     14.  We also note that in the proposed methodology the BCPM will be used in a
+different manner than the synthesis model, which the Commission adopted to estimate the cost for
+non-rural carriers to provide service.  In the proposed methodology, the BCPM will be used
+simply to estimate the relative cost of providing service in density zones within the exchanges
+served by the rural LEC petitioners.  We believe that the BCPM is sufficiently accurate for such
+purposes on an interim basis.  We emphasize, however, that our approval of the proposed
+methodology is not intended as an endorsement of the BCPM for any purpose other than that in
+the proposed methodology and for the purposes of this particular situation.  
+
+     15.  Finally, we recognize that it was not possible for petitioners to include the
+synthesis model in their proposed methodology because the Commission had not yet adopted it
+when the petition was filed.  The Washington Commission and rural LEC petitioners have
+invested significant time and effort in developing the proposed methodology, which represents a
+significant step forward.  Denying the petition because it uses BCPM would likely result in a
+significant delay in the Washington Commission's efforts to promote competition in the areas
+served by the rural LEC petitioners.  While the Washington Commission and the rural LEC
+petitioners could revise the proposed methodology to include the synthesis model, rather than the
+BCPM, and then seek our concurrence, experience suggests that this would be difficult and time
+consuming.  On balance, we therefore believe it is appropriate to approve the petition as
+proposed.
+
+     16.  Nevertheless, we urge petitioners to consider substituting the synthesis model in
+the proposed methodology when it is finalized.  We urge petitioners to take this course because
+regardless of the Commission's ultimate decision on whether to apply the synthesis model to rural
+carriers, we believe that the synthesis model provides more accurate cost estimates than does the
+BCPM and use of the synthesis model will make it easier for USAC to administer petitioners'
+methodology.  We hereby give advance approval to modifications to petitioners' proposal to
+conform the model platform and inputs to those adopted by this Commission.
+
+     17.  Petitioners suggest that the information necessary for disaggregation of support
+can be either supplied to or developed by USAC.  As discussed earlier, such information will be
+obtained by running a modified version of the BCPM.  In light of USAC's responsibility for
+administering the disbursement of federal support, we conclude that USAC should administer
+petitioners' proposal, including the running of the cost model and determination of disaggregated
+support amounts in the rural LEC petitioners' current service areas.  We recognize that USAC
+will have to work closely with the Washington Commission and rural LEC petitioners to obtain
+information necessary to implement the proposal.  We delegate authority to USAC to obtain such
+information from these and other parties, as necessary.  For ease of administration, we conclude
+that USAC should implement the proposed methodology on January 1, 2000.
+
+     18.  In reaching these conclusions, we make no judgment regarding similar requests
+that we may receive in the future and decline to adopt GTE's suggestion that we adopt guidelines
+for such requests.  We will examine each request on a case-by-case basis.  We disagree with
+USTA's assertion that we should deny the petition because it raises significant issues that have
+"the potential of altering the Commission's universal service policies" established by and being
+reformulated in ongoing proceedings.  This decision will permit the Washington Commission to
+experiment with an alternative method of distributing universal service support to rural carriers
+and may provide information useful in the Commission's ongoing proceeding on this subject.  Our
+approval of petitioners' proposal on an interim basis permits it to be applied only in the
+circumstances outlined in their petition.  It is in no way indicative of what we may decide in any
+pending proceeding or how the issues in that proceeding will be addressed.  Finally, we believe
+that our decision in this matter accords with the Commission's endeavor to encourage states and
+carriers to find innovative ways to foster a pro-competitive environment, and to foster better use
+of available support.
+
+                     IV.  ORDERING CLAUSES
+
+
+     19.  Accordingly, IT IS ORDERED, pursuant to section 214 (e)(5) of the
+Communications Act of 1934, as amended, 47 U.S.C.  214(e)(5), sections 54.207 and 54.307 of
+the Commission's rules, 47 C.F.R.  54.207, 54.307, and authority delegated by section
+54.207(e) of the Commission's rules, 47 C.F.R.  54.207(e), that the petition filed by the
+petitioners IS GRANTED to the extent stated herein.
+
+     20.  IT IS FURTHER ORDERED that this ORDER IS EFFECTIVE thirty (30) days
+from its release date.  USAC is directed to use the proposed methodology beginning on January
+1, 2000.
+
+
+
+                         FEDERAL COMMUNICATIONS COMMISSION
+
+
+
+
+                         Lisa M. Zaina
+                         Acting Deputy Chief, Common Carrier Bureau
